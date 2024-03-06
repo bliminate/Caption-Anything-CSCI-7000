@@ -1,0 +1,2604 @@
+Average clip score:  0.28906494140625
+
+generating captions for image: 0 data/sa_223769.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of the virgin mary
+Clip score of the caption is 0.291259765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of the virgin mary
+Generating caption for mask  2
+reference caption: , caption: the statue of the virgin mary
+Clip score of the caption is 0.291259765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of the virgin mary
+Generating caption for mask  3
+reference caption: , caption: the statue of the virgin mary
+Clip score of the caption is 0.291259765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of the virgin mary
+Generating caption for mask  4
+reference caption: , caption: the statue of the virgin mary
+Clip score of the caption is 0.291259765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of the virgin mary
+Generating caption for mask  5
+reference caption: , caption: the statue of the virgin mary
+Clip score of the caption is 0.291259765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of the virgin mary
+generating captions for image: 1 data/sa_223795.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in hijab
+Clip score of the caption is 0.279052734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in hijab
+Generating caption for mask  2
+reference caption: , caption: a woman in hijab
+Clip score of the caption is 0.279052734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in hijab
+Generating caption for mask  3
+reference caption: , caption: a woman in hijab
+Clip score of the caption is 0.279052734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in hijab
+Generating caption for mask  4
+reference caption: , caption: a woman in hijab
+Clip score of the caption is 0.279052734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in hijab
+Generating caption for mask  5
+reference caption: , caption: a woman in hijab
+Clip score of the caption is 0.279052734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in hijab
+generating captions for image: 2 data/sa_223829.jpg
+Generating caption for mask  1
+reference caption: , caption: a man in a suit
+Clip score of the caption is 0.27734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit
+Generating caption for mask  2
+reference caption: , caption: a man in a suit
+Clip score of the caption is 0.27734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit
+Generating caption for mask  3
+reference caption: , caption: a man in a suit
+Clip score of the caption is 0.27734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit
+Generating caption for mask  4
+reference caption: , caption: a man in a suit
+Clip score of the caption is 0.27734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit
+Generating caption for mask  5
+reference caption: , caption: a man in a suit
+Clip score of the caption is 0.27734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit
+generating captions for image: 3 data/sa_223883.jpg
+Generating caption for mask  1
+reference caption: , caption: kids' vitamin
+Clip score of the caption is 0.31591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kids' vitamin
+Generating caption for mask  2
+reference caption: , caption: kids' vitamin
+Clip score of the caption is 0.31591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kids' vitamin
+Generating caption for mask  3
+reference caption: , caption: kids' vitamin
+Clip score of the caption is 0.31591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kids' vitamin
+Generating caption for mask  4
+reference caption: , caption: kids' vitamin
+Clip score of the caption is 0.31591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kids' vitamin
+Generating caption for mask  5
+reference caption: , caption: kids' vitamin
+Clip score of the caption is 0.31591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kids' vitamin
+generating captions for image: 4 data/sa_224139.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman wearing a hijab
+Clip score of the caption is 0.30322265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a hijab
+Generating caption for mask  2
+reference caption: , caption: a woman wearing a hijab
+Clip score of the caption is 0.30322265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a hijab
+Generating caption for mask  3
+reference caption: , caption: a woman wearing a hijab
+Clip score of the caption is 0.30322265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a hijab
+Generating caption for mask  4
+reference caption: , caption: a woman wearing a hijab
+Clip score of the caption is 0.30322265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a hijab
+Generating caption for mask  5
+reference caption: , caption: a woman wearing a hijab
+Clip score of the caption is 0.30322265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a hijab
+generating captions for image: 5 data/sa_224249.jpg
+Generating caption for mask  1
+reference caption: , caption: the woman is singing on stage
+Clip score of the caption is 0.274169921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the woman is singing on stage
+Generating caption for mask  2
+reference caption: , caption: the woman is singing on stage
+Clip score of the caption is 0.274169921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the woman is singing on stage
+Generating caption for mask  3
+reference caption: , caption: the woman is singing on stage
+Clip score of the caption is 0.274169921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the woman is singing on stage
+Generating caption for mask  4
+reference caption: , caption: the woman is singing on stage
+Clip score of the caption is 0.274169921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the woman is singing on stage
+Generating caption for mask  5
+reference caption: , caption: the woman is singing on stage
+Clip score of the caption is 0.274169921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the woman is singing on stage
+generating captions for image: 6 data/sa_224332.jpg
+Generating caption for mask  1
+reference caption: , caption: the sun setting over the water park
+Clip score of the caption is 0.261962890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sun setting over the water park
+Generating caption for mask  2
+reference caption: , caption: the sun setting over the water park
+Clip score of the caption is 0.261962890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sun setting over the water park
+Generating caption for mask  3
+reference caption: , caption: the sun setting over the water park
+Clip score of the caption is 0.261962890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sun setting over the water park
+Generating caption for mask  4
+reference caption: , caption: the sun setting over the water park
+Clip score of the caption is 0.261962890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sun setting over the water park
+Generating caption for mask  5
+reference caption: , caption: the sun setting over the water park
+Clip score of the caption is 0.261962890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sun setting over the water park
+generating captions for image: 7 data/sa_224535.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in a white lab coat holding a syringe
+Clip score of the caption is 0.33544921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a white lab coat holding a syringe
+Generating caption for mask  2
+reference caption: , caption: a woman in a white lab coat holding a syringe
+Clip score of the caption is 0.33544921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a white lab coat holding a syringe
+Generating caption for mask  3
+reference caption: , caption: a woman in a white lab coat holding a syringe
+Clip score of the caption is 0.33544921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a white lab coat holding a syringe
+Generating caption for mask  4
+reference caption: , caption: a woman in a white lab coat holding a syringe
+Clip score of the caption is 0.33544921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a white lab coat holding a syringe
+Generating caption for mask  5
+reference caption: , caption: a woman in a white lab coat holding a syringe
+Clip score of the caption is 0.33544921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a white lab coat holding a syringe
+generating captions for image: 8 data/sa_224561.jpg
+Generating caption for mask  1
+reference caption: , caption: a man wearing a hat
+Clip score of the caption is 0.279296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a hat
+Generating caption for mask  2
+reference caption: , caption: a man wearing a hat
+Clip score of the caption is 0.279296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a hat
+Generating caption for mask  3
+reference caption: , caption: a man wearing a hat
+Clip score of the caption is 0.279296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a hat
+Generating caption for mask  4
+reference caption: , caption: a man wearing a hat
+Clip score of the caption is 0.279296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a hat
+Generating caption for mask  5
+reference caption: , caption: a man wearing a hat
+Clip score of the caption is 0.279296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a hat
+generating captions for image: 9 data/sa_224638.jpg
+Generating caption for mask  1
+reference caption: , caption: a trombone player
+Clip score of the caption is 0.307373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a trombone player
+Generating caption for mask  2
+reference caption: , caption: a trombone player
+Clip score of the caption is 0.307373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a trombone player
+Generating caption for mask  3
+reference caption: , caption: a trombone player
+Clip score of the caption is 0.307373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a trombone player
+Generating caption for mask  4
+reference caption: , caption: a trombone player
+Clip score of the caption is 0.307373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a trombone player
+Generating caption for mask  5
+reference caption: , caption: a trombone player
+Clip score of the caption is 0.307373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a trombone player
+generating captions for image: 10 data/sa_224770.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the karate tournament in the city of kiev, ukraine
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the karate tournament in the city of kiev, ukraine
+Generating caption for mask  2
+reference caption: , caption: the image shows the karate tournament in the city of kiev, ukraine
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the karate tournament in the city of kiev, ukraine
+Generating caption for mask  3
+reference caption: , caption: the image shows the karate tournament in the city of kiev, ukraine
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the karate tournament in the city of kiev, ukraine
+Generating caption for mask  4
+reference caption: , caption: the image shows the karate tournament in the city of kiev, ukraine
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the karate tournament in the city of kiev, ukraine
+Generating caption for mask  5
+reference caption: , caption: the image shows the karate tournament in the city of kiev, ukraine
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the karate tournament in the city of kiev, ukraine
+generating captions for image: 11 data/sa_224845.jpg
+Generating caption for mask  1
+reference caption: , caption: the man is wearing a big trees t - shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is wearing a big trees t - shirt
+Generating caption for mask  2
+reference caption: , caption: the man is wearing a big trees t - shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is wearing a big trees t - shirt
+Generating caption for mask  3
+reference caption: , caption: the man is wearing a big trees t - shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is wearing a big trees t - shirt
+Generating caption for mask  4
+reference caption: , caption: the man is wearing a big trees t - shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is wearing a big trees t - shirt
+Generating caption for mask  5
+reference caption: , caption: the man is wearing a big trees t - shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is wearing a big trees t - shirt
+generating captions for image: 12 data/sa_224859.jpg
+Generating caption for mask  1
+reference caption: , caption: a man wearing a mask
+Clip score of the caption is 0.232177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a mask
+Generating caption for mask  2
+reference caption: , caption: a man wearing a mask
+Clip score of the caption is 0.232177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a mask
+Generating caption for mask  3
+reference caption: , caption: a man wearing a mask
+Clip score of the caption is 0.232177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a mask
+Generating caption for mask  4
+reference caption: , caption: a man wearing a mask
+Clip score of the caption is 0.232177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a mask
+Generating caption for mask  5
+reference caption: , caption: a man wearing a mask
+Clip score of the caption is 0.232177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a mask
+generating captions for image: 13 data/sa_225023.jpg
+Generating caption for mask  1
+reference caption: , caption: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Clip score of the caption is 0.2249755859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Generating caption for mask  2
+reference caption: , caption: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Clip score of the caption is 0.2249755859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Generating caption for mask  3
+reference caption: , caption: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Clip score of the caption is 0.2249755859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Generating caption for mask  4
+reference caption: , caption: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Clip score of the caption is 0.2249755859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Generating caption for mask  5
+reference caption: , caption: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+Clip score of the caption is 0.2249755859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the ukrainian flag, the
+generating captions for image: 14 data/sa_225274.jpg
+Generating caption for mask  1
+reference caption: , caption: a man speaking into a microphone
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man speaking into a microphone
+Generating caption for mask  2
+reference caption: , caption: a man speaking into a microphone
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man speaking into a microphone
+Generating caption for mask  3
+reference caption: , caption: a man speaking into a microphone
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man speaking into a microphone
+Generating caption for mask  4
+reference caption: , caption: a man speaking into a microphone
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man speaking into a microphone
+Generating caption for mask  5
+reference caption: , caption: a man speaking into a microphone
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man speaking into a microphone
+generating captions for image: 15 data/sa_225279.jpg
+Generating caption for mask  1
+reference caption: , caption: a statue of a woman holding up a star
+Clip score of the caption is 0.36376953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a woman holding up a star
+Generating caption for mask  2
+reference caption: , caption: a statue of a woman holding up a star
+Clip score of the caption is 0.36376953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a woman holding up a star
+Generating caption for mask  3
+reference caption: , caption: a statue of a woman holding up a star
+Clip score of the caption is 0.36376953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a woman holding up a star
+Generating caption for mask  4
+reference caption: , caption: a statue of a woman holding up a star
+Clip score of the caption is 0.36376953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a woman holding up a star
+Generating caption for mask  5
+reference caption: , caption: a statue of a woman holding up a star
+Clip score of the caption is 0.36376953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a woman holding up a star
+generating captions for image: 16 data/sa_225310.jpg
+Generating caption for mask  1
+reference caption: , caption: a child with a hand on his head
+Clip score of the caption is 0.2734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a hand on his head
+Generating caption for mask  2
+reference caption: , caption: a child with a hand on his head
+Clip score of the caption is 0.2734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a hand on his head
+Generating caption for mask  3
+reference caption: , caption: a child with a hand on his head
+Clip score of the caption is 0.2734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a hand on his head
+Generating caption for mask  4
+reference caption: , caption: a child with a hand on his head
+Clip score of the caption is 0.2734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a hand on his head
+Generating caption for mask  5
+reference caption: , caption: a child with a hand on his head
+Clip score of the caption is 0.2734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a hand on his head
+generating captions for image: 17 data/sa_225324.jpg
+Generating caption for mask  1
+reference caption: , caption: the figure skating competition
+Clip score of the caption is 0.31005859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the figure skating competition
+Generating caption for mask  2
+reference caption: , caption: the figure skating competition
+Clip score of the caption is 0.31005859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the figure skating competition
+Generating caption for mask  3
+reference caption: , caption: the figure skating competition
+Clip score of the caption is 0.31005859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the figure skating competition
+Generating caption for mask  4
+reference caption: , caption: the figure skating competition
+Clip score of the caption is 0.31005859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the figure skating competition
+Generating caption for mask  5
+reference caption: , caption: the figure skating competition
+Clip score of the caption is 0.31005859375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the figure skating competition
+generating captions for image: 18 data/sa_225551.jpg
+Generating caption for mask  1
+reference caption: , caption: the sky
+Clip score of the caption is 0.206787109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sky
+Generating caption for mask  2
+reference caption: , caption: the sky
+Clip score of the caption is 0.206787109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sky
+Generating caption for mask  3
+reference caption: , caption: the sky
+Clip score of the caption is 0.206787109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sky
+Generating caption for mask  4
+reference caption: , caption: the sky
+Clip score of the caption is 0.206787109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sky
+Generating caption for mask  5
+reference caption: , caption: the sky
+Clip score of the caption is 0.206787109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sky
+generating captions for image: 19 data/sa_225608.jpg
+Generating caption for mask  1
+reference caption: , caption: a man playing a bass guitar
+Clip score of the caption is 0.306884765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a bass guitar
+Generating caption for mask  2
+reference caption: , caption: a man playing a bass guitar
+Clip score of the caption is 0.306884765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a bass guitar
+Generating caption for mask  3
+reference caption: , caption: a man playing a bass guitar
+Clip score of the caption is 0.306884765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a bass guitar
+Generating caption for mask  4
+reference caption: , caption: a man playing a bass guitar
+Clip score of the caption is 0.306884765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a bass guitar
+Generating caption for mask  5
+reference caption: , caption: a man playing a bass guitar
+Clip score of the caption is 0.306884765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a bass guitar
+generating captions for image: 20 data/sa_225672.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman holding a sign that says know justice know peace
+Clip score of the caption is 0.35107421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a sign that says know justice know peace
+Generating caption for mask  2
+reference caption: , caption: a woman holding a sign that says know justice know peace
+Clip score of the caption is 0.35107421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a sign that says know justice know peace
+Generating caption for mask  3
+reference caption: , caption: a woman holding a sign that says know justice know peace
+Clip score of the caption is 0.35107421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a sign that says know justice know peace
+Generating caption for mask  4
+reference caption: , caption: a woman holding a sign that says know justice know peace
+Clip score of the caption is 0.35107421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a sign that says know justice know peace
+Generating caption for mask  5
+reference caption: , caption: a woman holding a sign that says know justice know peace
+Clip score of the caption is 0.35107421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a sign that says know justice know peace
+generating captions for image: 21 data/sa_225743.jpg
+Generating caption for mask  1
+reference caption: , caption: a person sitting at a desk
+Clip score of the caption is 0.2685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a person sitting at a desk
+Generating caption for mask  2
+reference caption: , caption: a person sitting at a desk
+Clip score of the caption is 0.2685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a person sitting at a desk
+Generating caption for mask  3
+reference caption: , caption: a person sitting at a desk
+Clip score of the caption is 0.2685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a person sitting at a desk
+Generating caption for mask  4
+reference caption: , caption: a person sitting at a desk
+Clip score of the caption is 0.2685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a person sitting at a desk
+Generating caption for mask  5
+reference caption: , caption: a person sitting at a desk
+Clip score of the caption is 0.2685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a person sitting at a desk
+generating captions for image: 22 data/sa_225849.jpg
+Generating caption for mask  1
+reference caption: , caption: a crowd of people at a concert
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a crowd of people at a concert
+Generating caption for mask  2
+reference caption: , caption: a crowd of people at a concert
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a crowd of people at a concert
+Generating caption for mask  3
+reference caption: , caption: a crowd of people at a concert
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a crowd of people at a concert
+Generating caption for mask  4
+reference caption: , caption: a crowd of people at a concert
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a crowd of people at a concert
+Generating caption for mask  5
+reference caption: , caption: a crowd of people at a concert
+Clip score of the caption is 0.27099609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a crowd of people at a concert
+generating captions for image: 23 data/sa_225921.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of a soldier holding a rifle
+Clip score of the caption is 0.332763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of a soldier holding a rifle
+Generating caption for mask  2
+reference caption: , caption: the statue of a soldier holding a rifle
+Clip score of the caption is 0.332763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of a soldier holding a rifle
+Generating caption for mask  3
+reference caption: , caption: the statue of a soldier holding a rifle
+Clip score of the caption is 0.332763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of a soldier holding a rifle
+Generating caption for mask  4
+reference caption: , caption: the statue of a soldier holding a rifle
+Clip score of the caption is 0.332763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of a soldier holding a rifle
+Generating caption for mask  5
+reference caption: , caption: the statue of a soldier holding a rifle
+Clip score of the caption is 0.332763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of a soldier holding a rifle
+generating captions for image: 24 data/sa_225948.jpg
+Generating caption for mask  1
+reference caption: , caption: a group of children sitting at a computer
+Clip score of the caption is 0.319580078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of children sitting at a computer
+Generating caption for mask  2
+reference caption: , caption: a group of children sitting at a computer
+Clip score of the caption is 0.319580078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of children sitting at a computer
+Generating caption for mask  3
+reference caption: , caption: a group of children sitting at a computer
+Clip score of the caption is 0.319580078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of children sitting at a computer
+Generating caption for mask  4
+reference caption: , caption: a group of children sitting at a computer
+Clip score of the caption is 0.319580078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of children sitting at a computer
+Generating caption for mask  5
+reference caption: , caption: a group of children sitting at a computer
+Clip score of the caption is 0.319580078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of children sitting at a computer
+generating captions for image: 25 data/sa_226032.jpg
+Generating caption for mask  1
+reference caption: , caption: a man in a white shirt and tie standing in an airport
+Clip score of the caption is 0.310302734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a white shirt and tie standing in an airport
+Generating caption for mask  2
+reference caption: , caption: a man in a white shirt and tie standing in an airport
+Clip score of the caption is 0.310302734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a white shirt and tie standing in an airport
+Generating caption for mask  3
+reference caption: , caption: a man in a white shirt and tie standing in an airport
+Clip score of the caption is 0.310302734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a white shirt and tie standing in an airport
+Generating caption for mask  4
+reference caption: , caption: a man in a white shirt and tie standing in an airport
+Clip score of the caption is 0.310302734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a white shirt and tie standing in an airport
+Generating caption for mask  5
+reference caption: , caption: a man in a white shirt and tie standing in an airport
+Clip score of the caption is 0.310302734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a white shirt and tie standing in an airport
+generating captions for image: 26 data/sa_226158.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of johnny cash
+Clip score of the caption is 0.256591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of johnny cash
+Generating caption for mask  2
+reference caption: , caption: the statue of johnny cash
+Clip score of the caption is 0.256591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of johnny cash
+Generating caption for mask  3
+reference caption: , caption: the statue of johnny cash
+Clip score of the caption is 0.256591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of johnny cash
+Generating caption for mask  4
+reference caption: , caption: the statue of johnny cash
+Clip score of the caption is 0.256591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of johnny cash
+Generating caption for mask  5
+reference caption: , caption: the statue of johnny cash
+Clip score of the caption is 0.256591796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of johnny cash
+generating captions for image: 27 data/sa_226283.jpg
+Generating caption for mask  1
+reference caption: , caption: a protest against the government's decision to allow men to marry women
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a protest against the government's decision to allow men to marry women
+Generating caption for mask  2
+reference caption: , caption: a protest against the government's decision to allow men to marry women
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a protest against the government's decision to allow men to marry women
+Generating caption for mask  3
+reference caption: , caption: a protest against the government's decision to allow men to marry women
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a protest against the government's decision to allow men to marry women
+Generating caption for mask  4
+reference caption: , caption: a protest against the government's decision to allow men to marry women
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a protest against the government's decision to allow men to marry women
+Generating caption for mask  5
+reference caption: , caption: a protest against the government's decision to allow men to marry women
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a protest against the government's decision to allow men to marry women
+generating captions for image: 28 data/sa_226827.jpg
+Generating caption for mask  1
+reference caption: , caption: ping pong table
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: ping pong table
+Generating caption for mask  2
+reference caption: , caption: ping pong table
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: ping pong table
+Generating caption for mask  3
+reference caption: , caption: ping pong table
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: ping pong table
+Generating caption for mask  4
+reference caption: , caption: ping pong table
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: ping pong table
+Generating caption for mask  5
+reference caption: , caption: ping pong table
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: ping pong table
+generating captions for image: 29 data/sa_226889.jpg
+Generating caption for mask  1
+reference caption: , caption: a boy in a blue shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a boy in a blue shirt
+Generating caption for mask  2
+reference caption: , caption: a boy in a blue shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a boy in a blue shirt
+Generating caption for mask  3
+reference caption: , caption: a boy in a blue shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a boy in a blue shirt
+Generating caption for mask  4
+reference caption: , caption: a boy in a blue shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a boy in a blue shirt
+Generating caption for mask  5
+reference caption: , caption: a boy in a blue shirt
+Clip score of the caption is 0.250732421875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a boy in a blue shirt
+generating captions for image: 30 data/sa_226912.jpg
+Generating caption for mask  1
+reference caption: , caption: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Clip score of the caption is 0.342041015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Generating caption for mask  2
+reference caption: , caption: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Clip score of the caption is 0.342041015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Generating caption for mask  3
+reference caption: , caption: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Clip score of the caption is 0.342041015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Generating caption for mask  4
+reference caption: , caption: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Clip score of the caption is 0.342041015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Generating caption for mask  5
+reference caption: , caption: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+Clip score of the caption is 0.342041015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: two young boys on the beach, one of them is wearing a soccer jersey and the other is wearing a red shirt
+generating captions for image: 31 data/sa_227081.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in a lab coat
+Clip score of the caption is 0.293212890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a lab coat
+Generating caption for mask  2
+reference caption: , caption: a woman in a lab coat
+Clip score of the caption is 0.293212890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a lab coat
+Generating caption for mask  3
+reference caption: , caption: a woman in a lab coat
+Clip score of the caption is 0.293212890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a lab coat
+Generating caption for mask  4
+reference caption: , caption: a woman in a lab coat
+Clip score of the caption is 0.293212890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a lab coat
+Generating caption for mask  5
+reference caption: , caption: a woman in a lab coat
+Clip score of the caption is 0.293212890625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a lab coat
+generating captions for image: 32 data/sa_227291.jpg
+Generating caption for mask  1
+reference caption: , caption: a roller coaster
+Clip score of the caption is 0.28173828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a roller coaster
+Generating caption for mask  2
+reference caption: , caption: a roller coaster
+Clip score of the caption is 0.28173828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a roller coaster
+Generating caption for mask  3
+reference caption: , caption: a roller coaster
+Clip score of the caption is 0.28173828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a roller coaster
+Generating caption for mask  4
+reference caption: , caption: a roller coaster
+Clip score of the caption is 0.28173828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a roller coaster
+Generating caption for mask  5
+reference caption: , caption: a roller coaster
+Clip score of the caption is 0.28173828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a roller coaster
+generating captions for image: 33 data/sa_227357.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the rugby player in action
+Clip score of the caption is 0.304931640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the rugby player in action
+Generating caption for mask  2
+reference caption: , caption: the image shows the rugby player in action
+Clip score of the caption is 0.304931640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the rugby player in action
+Generating caption for mask  3
+reference caption: , caption: the image shows the rugby player in action
+Clip score of the caption is 0.304931640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the rugby player in action
+Generating caption for mask  4
+reference caption: , caption: the image shows the rugby player in action
+Clip score of the caption is 0.304931640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the rugby player in action
+Generating caption for mask  5
+reference caption: , caption: the image shows the rugby player in action
+Clip score of the caption is 0.304931640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the rugby player in action
+generating captions for image: 34 data/sa_227439.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in a traditional chinese dress
+Clip score of the caption is 0.284912109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a traditional chinese dress
+Generating caption for mask  2
+reference caption: , caption: a woman in a traditional chinese dress
+Clip score of the caption is 0.284912109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a traditional chinese dress
+Generating caption for mask  3
+reference caption: , caption: a woman in a traditional chinese dress
+Clip score of the caption is 0.284912109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a traditional chinese dress
+Generating caption for mask  4
+reference caption: , caption: a woman in a traditional chinese dress
+Clip score of the caption is 0.284912109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a traditional chinese dress
+Generating caption for mask  5
+reference caption: , caption: a woman in a traditional chinese dress
+Clip score of the caption is 0.284912109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a traditional chinese dress
+generating captions for image: 35 data/sa_227495.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman raising her hands in the air
+Clip score of the caption is 0.298095703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman raising her hands in the air
+Generating caption for mask  2
+reference caption: , caption: a woman raising her hands in the air
+Clip score of the caption is 0.298095703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman raising her hands in the air
+Generating caption for mask  3
+reference caption: , caption: a woman raising her hands in the air
+Clip score of the caption is 0.298095703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman raising her hands in the air
+Generating caption for mask  4
+reference caption: , caption: a woman raising her hands in the air
+Clip score of the caption is 0.298095703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman raising her hands in the air
+Generating caption for mask  5
+reference caption: , caption: a woman raising her hands in the air
+Clip score of the caption is 0.298095703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman raising her hands in the air
+generating captions for image: 36 data/sa_227497.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman running in a race
+Clip score of the caption is 0.316650390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman running in a race
+Generating caption for mask  2
+reference caption: , caption: a woman running in a race
+Clip score of the caption is 0.316650390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman running in a race
+Generating caption for mask  3
+reference caption: , caption: a woman running in a race
+Clip score of the caption is 0.316650390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman running in a race
+Generating caption for mask  4
+reference caption: , caption: a woman running in a race
+Clip score of the caption is 0.316650390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman running in a race
+Generating caption for mask  5
+reference caption: , caption: a woman running in a race
+Clip score of the caption is 0.316650390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman running in a race
+generating captions for image: 37 data/sa_227523.jpg
+Generating caption for mask  1
+reference caption: , caption: a bottle of beer
+Clip score of the caption is 0.28271484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bottle of beer
+Generating caption for mask  2
+reference caption: , caption: a bottle of beer
+Clip score of the caption is 0.28271484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bottle of beer
+Generating caption for mask  3
+reference caption: , caption: a bottle of beer
+Clip score of the caption is 0.28271484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bottle of beer
+Generating caption for mask  4
+reference caption: , caption: a bottle of beer
+Clip score of the caption is 0.28271484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bottle of beer
+Generating caption for mask  5
+reference caption: , caption: a bottle of beer
+Clip score of the caption is 0.28271484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bottle of beer
+generating captions for image: 38 data/sa_227537.jpg
+Generating caption for mask  1
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.263671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  2
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.263671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  3
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.263671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  4
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.263671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  5
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.263671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+generating captions for image: 39 data/sa_227554.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the participants of the event
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the participants of the event
+Generating caption for mask  2
+reference caption: , caption: the image shows the participants of the event
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the participants of the event
+Generating caption for mask  3
+reference caption: , caption: the image shows the participants of the event
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the participants of the event
+Generating caption for mask  4
+reference caption: , caption: the image shows the participants of the event
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the participants of the event
+Generating caption for mask  5
+reference caption: , caption: the image shows the participants of the event
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the participants of the event
+generating captions for image: 40 data/sa_227690.jpg
+Generating caption for mask  1
+reference caption: , caption: journey to the future
+Clip score of the caption is 0.20654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: journey to the future
+Generating caption for mask  2
+reference caption: , caption: journey to the future
+Clip score of the caption is 0.20654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: journey to the future
+Generating caption for mask  3
+reference caption: , caption: journey to the future
+Clip score of the caption is 0.20654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: journey to the future
+Generating caption for mask  4
+reference caption: , caption: journey to the future
+Clip score of the caption is 0.20654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: journey to the future
+Generating caption for mask  5
+reference caption: , caption: journey to the future
+Clip score of the caption is 0.20654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: journey to the future
+generating captions for image: 41 data/sa_227784.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a man singing into a microphone
+Clip score of the caption is 0.278564453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man singing into a microphone
+Generating caption for mask  2
+reference caption: , caption: the image shows a man singing into a microphone
+Clip score of the caption is 0.278564453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man singing into a microphone
+Generating caption for mask  3
+reference caption: , caption: the image shows a man singing into a microphone
+Clip score of the caption is 0.278564453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man singing into a microphone
+Generating caption for mask  4
+reference caption: , caption: the image shows a man singing into a microphone
+Clip score of the caption is 0.278564453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man singing into a microphone
+Generating caption for mask  5
+reference caption: , caption: the image shows a man singing into a microphone
+Clip score of the caption is 0.278564453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man singing into a microphone
+generating captions for image: 42 data/sa_227809.jpg
+Generating caption for mask  1
+reference caption: , caption: a saxophone player playing in a street
+Clip score of the caption is 0.298828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a saxophone player playing in a street
+Generating caption for mask  2
+reference caption: , caption: a saxophone player playing in a street
+Clip score of the caption is 0.298828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a saxophone player playing in a street
+Generating caption for mask  3
+reference caption: , caption: a saxophone player playing in a street
+Clip score of the caption is 0.298828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a saxophone player playing in a street
+Generating caption for mask  4
+reference caption: , caption: a saxophone player playing in a street
+Clip score of the caption is 0.298828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a saxophone player playing in a street
+Generating caption for mask  5
+reference caption: , caption: a saxophone player playing in a street
+Clip score of the caption is 0.298828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a saxophone player playing in a street
+generating captions for image: 43 data/sa_228236.jpg
+Generating caption for mask  1
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  2
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  3
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  4
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+Generating caption for mask  5
+reference caption: , caption: a man in a suit and tie
+Clip score of the caption is 0.24267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man in a suit and tie
+generating captions for image: 44 data/sa_228599.jpg
+Generating caption for mask  1
+reference caption: , caption: a child in a window
+Clip score of the caption is 0.26025390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child in a window
+Generating caption for mask  2
+reference caption: , caption: a child in a window
+Clip score of the caption is 0.26025390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child in a window
+Generating caption for mask  3
+reference caption: , caption: a child in a window
+Clip score of the caption is 0.26025390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child in a window
+Generating caption for mask  4
+reference caption: , caption: a child in a window
+Clip score of the caption is 0.26025390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child in a window
+Generating caption for mask  5
+reference caption: , caption: a child in a window
+Clip score of the caption is 0.26025390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child in a window
+generating captions for image: 45 data/sa_228850.jpg
+Generating caption for mask  1
+reference caption: , caption: a man on a boat
+Clip score of the caption is 0.2174072265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a boat
+Generating caption for mask  2
+reference caption: , caption: a man on a boat
+Clip score of the caption is 0.2174072265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a boat
+Generating caption for mask  3
+reference caption: , caption: a man on a boat
+Clip score of the caption is 0.2174072265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a boat
+Generating caption for mask  4
+reference caption: , caption: a man on a boat
+Clip score of the caption is 0.2174072265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a boat
+Generating caption for mask  5
+reference caption: , caption: a man on a boat
+Clip score of the caption is 0.2174072265625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a boat
+generating captions for image: 46 data/sa_228944.jpg
+Generating caption for mask  1
+reference caption: , caption: a ferrari 488 spider in the desert
+Clip score of the caption is 0.35595703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a ferrari 488 spider in the desert
+Generating caption for mask  2
+reference caption: , caption: a ferrari 488 spider in the desert
+Clip score of the caption is 0.35595703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a ferrari 488 spider in the desert
+Generating caption for mask  3
+reference caption: , caption: a ferrari 488 spider in the desert
+Clip score of the caption is 0.35595703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a ferrari 488 spider in the desert
+Generating caption for mask  4
+reference caption: , caption: a ferrari 488 spider in the desert
+Clip score of the caption is 0.35595703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a ferrari 488 spider in the desert
+Generating caption for mask  5
+reference caption: , caption: a ferrari 488 spider in the desert
+Clip score of the caption is 0.35595703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a ferrari 488 spider in the desert
+generating captions for image: 47 data/sa_228952.jpg
+Generating caption for mask  1
+reference caption: , caption: fireworks
+Clip score of the caption is 0.2724609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: fireworks
+Generating caption for mask  2
+reference caption: , caption: fireworks
+Clip score of the caption is 0.2724609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: fireworks
+Generating caption for mask  3
+reference caption: , caption: fireworks
+Clip score of the caption is 0.2724609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: fireworks
+Generating caption for mask  4
+reference caption: , caption: fireworks
+Clip score of the caption is 0.2724609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: fireworks
+Generating caption for mask  5
+reference caption: , caption: fireworks
+Clip score of the caption is 0.2724609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: fireworks
+generating captions for image: 48 data/sa_228991.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman singing in a bar
+Clip score of the caption is 0.28955078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman singing in a bar
+Generating caption for mask  2
+reference caption: , caption: a woman singing in a bar
+Clip score of the caption is 0.28955078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman singing in a bar
+Generating caption for mask  3
+reference caption: , caption: a woman singing in a bar
+Clip score of the caption is 0.28955078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman singing in a bar
+Generating caption for mask  4
+reference caption: , caption: a woman singing in a bar
+Clip score of the caption is 0.28955078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman singing in a bar
+Generating caption for mask  5
+reference caption: , caption: a woman singing in a bar
+Clip score of the caption is 0.28955078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman singing in a bar
+generating captions for image: 49 data/sa_229307.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a black seed pod
+Clip score of the caption is 0.34619140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a black seed pod
+Generating caption for mask  2
+reference caption: , caption: the image shows a black seed pod
+Clip score of the caption is 0.34619140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a black seed pod
+Generating caption for mask  3
+reference caption: , caption: the image shows a black seed pod
+Clip score of the caption is 0.34619140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a black seed pod
+Generating caption for mask  4
+reference caption: , caption: the image shows a black seed pod
+Clip score of the caption is 0.34619140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a black seed pod
+Generating caption for mask  5
+reference caption: , caption: the image shows a black seed pod
+Clip score of the caption is 0.34619140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a black seed pod
+generating captions for image: 50 data/sa_229377.jpg
+Generating caption for mask  1
+reference caption: , caption: the final of the world cup in brazil
+Clip score of the caption is 0.32568359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the final of the world cup in brazil
+Generating caption for mask  2
+reference caption: , caption: the final of the world cup in brazil
+Clip score of the caption is 0.32568359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the final of the world cup in brazil
+Generating caption for mask  3
+reference caption: , caption: the final of the world cup in brazil
+Clip score of the caption is 0.32568359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the final of the world cup in brazil
+Generating caption for mask  4
+reference caption: , caption: the final of the world cup in brazil
+Clip score of the caption is 0.32568359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the final of the world cup in brazil
+Generating caption for mask  5
+reference caption: , caption: the final of the world cup in brazil
+Clip score of the caption is 0.32568359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the final of the world cup in brazil
+generating captions for image: 51 data/sa_229517.jpg
+Generating caption for mask  1
+reference caption: , caption: the man is speaking at a podium
+Clip score of the caption is 0.252685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is speaking at a podium
+Generating caption for mask  2
+reference caption: , caption: the man is speaking at a podium
+Clip score of the caption is 0.252685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is speaking at a podium
+Generating caption for mask  3
+reference caption: , caption: the man is speaking at a podium
+Clip score of the caption is 0.252685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is speaking at a podium
+Generating caption for mask  4
+reference caption: , caption: the man is speaking at a podium
+Clip score of the caption is 0.252685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is speaking at a podium
+Generating caption for mask  5
+reference caption: , caption: the man is speaking at a podium
+Clip score of the caption is 0.252685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the man is speaking at a podium
+generating captions for image: 52 data/sa_229522.jpg
+Generating caption for mask  1
+reference caption: , caption: kelly clarkson
+Clip score of the caption is 0.32177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kelly clarkson
+Generating caption for mask  2
+reference caption: , caption: kelly clarkson
+Clip score of the caption is 0.32177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kelly clarkson
+Generating caption for mask  3
+reference caption: , caption: kelly clarkson
+Clip score of the caption is 0.32177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kelly clarkson
+Generating caption for mask  4
+reference caption: , caption: kelly clarkson
+Clip score of the caption is 0.32177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kelly clarkson
+Generating caption for mask  5
+reference caption: , caption: kelly clarkson
+Clip score of the caption is 0.32177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: kelly clarkson
+generating captions for image: 53 data/sa_229597.jpg
+Generating caption for mask  1
+reference caption: , caption: the sunset
+Clip score of the caption is 0.270751953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sunset
+Generating caption for mask  2
+reference caption: , caption: the sunset
+Clip score of the caption is 0.270751953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sunset
+Generating caption for mask  3
+reference caption: , caption: the sunset
+Clip score of the caption is 0.270751953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sunset
+Generating caption for mask  4
+reference caption: , caption: the sunset
+Clip score of the caption is 0.270751953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sunset
+Generating caption for mask  5
+reference caption: , caption: the sunset
+Clip score of the caption is 0.270751953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the sunset
+generating captions for image: 54 data/sa_229744.jpg
+Generating caption for mask  1
+reference caption: , caption: a jazz trio at the zinc, new york city, nyc, june 2013
+Clip score of the caption is 0.351318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a jazz trio at the zinc, new york city, nyc, june 2013
+Generating caption for mask  2
+reference caption: , caption: a jazz trio at the zinc, new york city, nyc, june 2013
+Clip score of the caption is 0.351318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a jazz trio at the zinc, new york city, nyc, june 2013
+Generating caption for mask  3
+reference caption: , caption: a jazz trio at the zinc, new york city, nyc, june 2013
+Clip score of the caption is 0.351318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a jazz trio at the zinc, new york city, nyc, june 2013
+Generating caption for mask  4
+reference caption: , caption: a jazz trio at the zinc, new york city, nyc, june 2013
+Clip score of the caption is 0.351318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a jazz trio at the zinc, new york city, nyc, june 2013
+Generating caption for mask  5
+reference caption: , caption: a jazz trio at the zinc, new york city, nyc, june 2013
+Clip score of the caption is 0.351318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a jazz trio at the zinc, new york city, nyc, june 2013
+generating captions for image: 55 data/sa_229796.jpg
+Generating caption for mask  1
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.27685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  2
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.27685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  3
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.27685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  4
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.27685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  5
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.27685546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+generating captions for image: 56 data/sa_229935.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in a yellow dress
+Clip score of the caption is 0.2958984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a yellow dress
+Generating caption for mask  2
+reference caption: , caption: a woman in a yellow dress
+Clip score of the caption is 0.2958984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a yellow dress
+Generating caption for mask  3
+reference caption: , caption: a woman in a yellow dress
+Clip score of the caption is 0.2958984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a yellow dress
+Generating caption for mask  4
+reference caption: , caption: a woman in a yellow dress
+Clip score of the caption is 0.2958984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a yellow dress
+Generating caption for mask  5
+reference caption: , caption: a woman in a yellow dress
+Clip score of the caption is 0.2958984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a yellow dress
+generating captions for image: 57 data/sa_229981.jpg
+Generating caption for mask  1
+reference caption: , caption: the band playing at the umber's bar in new york city
+Clip score of the caption is 0.2310791015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the umber's bar in new york city
+Generating caption for mask  2
+reference caption: , caption: the band playing at the umber's bar in new york city
+Clip score of the caption is 0.2310791015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the umber's bar in new york city
+Generating caption for mask  3
+reference caption: , caption: the band playing at the umber's bar in new york city
+Clip score of the caption is 0.2310791015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the umber's bar in new york city
+Generating caption for mask  4
+reference caption: , caption: the band playing at the umber's bar in new york city
+Clip score of the caption is 0.2310791015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the umber's bar in new york city
+Generating caption for mask  5
+reference caption: , caption: the band playing at the umber's bar in new york city
+Clip score of the caption is 0.2310791015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the umber's bar in new york city
+generating captions for image: 58 data/sa_230034.jpg
+Generating caption for mask  1
+reference caption: , caption: the band playing at the concert
+Clip score of the caption is 0.267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the concert
+Generating caption for mask  2
+reference caption: , caption: the band playing at the concert
+Clip score of the caption is 0.267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the concert
+Generating caption for mask  3
+reference caption: , caption: the band playing at the concert
+Clip score of the caption is 0.267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the concert
+Generating caption for mask  4
+reference caption: , caption: the band playing at the concert
+Clip score of the caption is 0.267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the concert
+Generating caption for mask  5
+reference caption: , caption: the band playing at the concert
+Clip score of the caption is 0.267578125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the concert
+generating captions for image: 59 data/sa_230154.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of saint peter in the church of the holy cross in kiev
+Clip score of the caption is 0.318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of saint peter in the church of the holy cross in kiev
+Generating caption for mask  2
+reference caption: , caption: the statue of saint peter in the church of the holy cross in kiev
+Clip score of the caption is 0.318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of saint peter in the church of the holy cross in kiev
+Generating caption for mask  3
+reference caption: , caption: the statue of saint peter in the church of the holy cross in kiev
+Clip score of the caption is 0.318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of saint peter in the church of the holy cross in kiev
+Generating caption for mask  4
+reference caption: , caption: the statue of saint peter in the church of the holy cross in kiev
+Clip score of the caption is 0.318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of saint peter in the church of the holy cross in kiev
+Generating caption for mask  5
+reference caption: , caption: the statue of saint peter in the church of the holy cross in kiev
+Clip score of the caption is 0.318359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of saint peter in the church of the holy cross in kiev
+generating captions for image: 60 data/sa_230403.jpg
+Generating caption for mask  1
+reference caption: , caption: a child with a white shirt
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a white shirt
+Generating caption for mask  2
+reference caption: , caption: a child with a white shirt
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a white shirt
+Generating caption for mask  3
+reference caption: , caption: a child with a white shirt
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a white shirt
+Generating caption for mask  4
+reference caption: , caption: a child with a white shirt
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a white shirt
+Generating caption for mask  5
+reference caption: , caption: a child with a white shirt
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child with a white shirt
+generating captions for image: 61 data/sa_230412.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman wearing a mask
+Clip score of the caption is 0.2666015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a mask
+Generating caption for mask  2
+reference caption: , caption: a woman wearing a mask
+Clip score of the caption is 0.2666015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a mask
+Generating caption for mask  3
+reference caption: , caption: a woman wearing a mask
+Clip score of the caption is 0.2666015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a mask
+Generating caption for mask  4
+reference caption: , caption: a woman wearing a mask
+Clip score of the caption is 0.2666015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a mask
+Generating caption for mask  5
+reference caption: , caption: a woman wearing a mask
+Clip score of the caption is 0.2666015625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a mask
+generating captions for image: 62 data/sa_230518.jpg
+Generating caption for mask  1
+reference caption: , caption: a group of young men taking a selfie
+Clip score of the caption is 0.28076171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of young men taking a selfie
+Generating caption for mask  2
+reference caption: , caption: a group of young men taking a selfie
+Clip score of the caption is 0.28076171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of young men taking a selfie
+Generating caption for mask  3
+reference caption: , caption: a group of young men taking a selfie
+Clip score of the caption is 0.28076171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of young men taking a selfie
+Generating caption for mask  4
+reference caption: , caption: a group of young men taking a selfie
+Clip score of the caption is 0.28076171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of young men taking a selfie
+Generating caption for mask  5
+reference caption: , caption: a group of young men taking a selfie
+Clip score of the caption is 0.28076171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a group of young men taking a selfie
+generating captions for image: 63 data/sa_230772.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Generating caption for mask  2
+reference caption: , caption: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Generating caption for mask  3
+reference caption: , caption: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Generating caption for mask  4
+reference caption: , caption: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Generating caption for mask  5
+reference caption: , caption: the image shows the front of a stationary bike with a phone mounted on the handlebars
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the front of a stationary bike with a phone mounted on the handlebars
+generating captions for image: 64 data/sa_230921.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a ballerina in a tutu and red dress
+Clip score of the caption is 0.30810546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a ballerina in a tutu and red dress
+Generating caption for mask  2
+reference caption: , caption: the image shows a ballerina in a tutu and red dress
+Clip score of the caption is 0.30810546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a ballerina in a tutu and red dress
+Generating caption for mask  3
+reference caption: , caption: the image shows a ballerina in a tutu and red dress
+Clip score of the caption is 0.30810546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a ballerina in a tutu and red dress
+Generating caption for mask  4
+reference caption: , caption: the image shows a ballerina in a tutu and red dress
+Clip score of the caption is 0.30810546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a ballerina in a tutu and red dress
+Generating caption for mask  5
+reference caption: , caption: the image shows a ballerina in a tutu and red dress
+Clip score of the caption is 0.30810546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a ballerina in a tutu and red dress
+generating captions for image: 65 data/sa_231218.jpg
+Generating caption for mask  1
+reference caption: , caption: the color run
+Clip score of the caption is 0.32373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the color run
+Generating caption for mask  2
+reference caption: , caption: the color run
+Clip score of the caption is 0.32373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the color run
+Generating caption for mask  3
+reference caption: , caption: the color run
+Clip score of the caption is 0.32373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the color run
+Generating caption for mask  4
+reference caption: , caption: the color run
+Clip score of the caption is 0.32373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the color run
+Generating caption for mask  5
+reference caption: , caption: the color run
+Clip score of the caption is 0.32373046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the color run
+generating captions for image: 66 data/sa_231464.jpg
+Generating caption for mask  1
+reference caption: , caption: a bridge
+Clip score of the caption is 0.2763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bridge
+Generating caption for mask  2
+reference caption: , caption: a bridge
+Clip score of the caption is 0.2763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bridge
+Generating caption for mask  3
+reference caption: , caption: a bridge
+Clip score of the caption is 0.2763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bridge
+Generating caption for mask  4
+reference caption: , caption: a bridge
+Clip score of the caption is 0.2763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bridge
+Generating caption for mask  5
+reference caption: , caption: a bridge
+Clip score of the caption is 0.2763671875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a bridge
+generating captions for image: 67 data/sa_231544.jpg
+Generating caption for mask  1
+reference caption: , caption: a man drinking a drink
+Clip score of the caption is 0.30078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man drinking a drink
+Generating caption for mask  2
+reference caption: , caption: a man drinking a drink
+Clip score of the caption is 0.30078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man drinking a drink
+Generating caption for mask  3
+reference caption: , caption: a man drinking a drink
+Clip score of the caption is 0.30078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man drinking a drink
+Generating caption for mask  4
+reference caption: , caption: a man drinking a drink
+Clip score of the caption is 0.30078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man drinking a drink
+Generating caption for mask  5
+reference caption: , caption: a man drinking a drink
+Clip score of the caption is 0.30078125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man drinking a drink
+generating captions for image: 68 data/sa_231649.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the man standing in the doorway of the airplane
+Clip score of the caption is 0.319091796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the man standing in the doorway of the airplane
+Generating caption for mask  2
+reference caption: , caption: the image shows the man standing in the doorway of the airplane
+Clip score of the caption is 0.319091796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the man standing in the doorway of the airplane
+Generating caption for mask  3
+reference caption: , caption: the image shows the man standing in the doorway of the airplane
+Clip score of the caption is 0.319091796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the man standing in the doorway of the airplane
+Generating caption for mask  4
+reference caption: , caption: the image shows the man standing in the doorway of the airplane
+Clip score of the caption is 0.319091796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the man standing in the doorway of the airplane
+Generating caption for mask  5
+reference caption: , caption: the image shows the man standing in the doorway of the airplane
+Clip score of the caption is 0.319091796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the man standing in the doorway of the airplane
+generating captions for image: 69 data/sa_231958.jpg
+Generating caption for mask  1
+reference caption: , caption: a man on a motorcycle
+Clip score of the caption is 0.204833984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a motorcycle
+Generating caption for mask  2
+reference caption: , caption: a man on a motorcycle
+Clip score of the caption is 0.204833984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a motorcycle
+Generating caption for mask  3
+reference caption: , caption: a man on a motorcycle
+Clip score of the caption is 0.204833984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a motorcycle
+Generating caption for mask  4
+reference caption: , caption: a man on a motorcycle
+Clip score of the caption is 0.204833984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a motorcycle
+Generating caption for mask  5
+reference caption: , caption: a man on a motorcycle
+Clip score of the caption is 0.204833984375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man on a motorcycle
+generating captions for image: 70 data/sa_232129.jpg
+Generating caption for mask  1
+reference caption: , caption: the emmy award for best actor in a drama series
+Clip score of the caption is 0.309326171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the emmy award for best actor in a drama series
+Generating caption for mask  2
+reference caption: , caption: the emmy award for best actor in a drama series
+Clip score of the caption is 0.309326171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the emmy award for best actor in a drama series
+Generating caption for mask  3
+reference caption: , caption: the emmy award for best actor in a drama series
+Clip score of the caption is 0.309326171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the emmy award for best actor in a drama series
+Generating caption for mask  4
+reference caption: , caption: the emmy award for best actor in a drama series
+Clip score of the caption is 0.309326171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the emmy award for best actor in a drama series
+Generating caption for mask  5
+reference caption: , caption: the emmy award for best actor in a drama series
+Clip score of the caption is 0.309326171875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the emmy award for best actor in a drama series
+generating captions for image: 71 data/sa_232140.jpg
+Generating caption for mask  1
+reference caption: , caption: a man riding a horse
+Clip score of the caption is 0.282470703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man riding a horse
+Generating caption for mask  2
+reference caption: , caption: a man riding a horse
+Clip score of the caption is 0.282470703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man riding a horse
+Generating caption for mask  3
+reference caption: , caption: a man riding a horse
+Clip score of the caption is 0.282470703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man riding a horse
+Generating caption for mask  4
+reference caption: , caption: a man riding a horse
+Clip score of the caption is 0.282470703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man riding a horse
+Generating caption for mask  5
+reference caption: , caption: a man riding a horse
+Clip score of the caption is 0.282470703125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man riding a horse
+generating captions for image: 72 data/sa_232344.jpg
+Generating caption for mask  1
+reference caption: , caption: a man blowing glass
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man blowing glass
+Generating caption for mask  2
+reference caption: , caption: a man blowing glass
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man blowing glass
+Generating caption for mask  3
+reference caption: , caption: a man blowing glass
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man blowing glass
+Generating caption for mask  4
+reference caption: , caption: a man blowing glass
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man blowing glass
+Generating caption for mask  5
+reference caption: , caption: a man blowing glass
+Clip score of the caption is 0.303466796875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man blowing glass
+generating captions for image: 73 data/sa_232365.jpg
+Generating caption for mask  1
+reference caption: , caption: a child doing a squat in a gymnasium
+Clip score of the caption is 0.3037109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child doing a squat in a gymnasium
+Generating caption for mask  2
+reference caption: , caption: a child doing a squat in a gymnasium
+Clip score of the caption is 0.3037109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child doing a squat in a gymnasium
+Generating caption for mask  3
+reference caption: , caption: a child doing a squat in a gymnasium
+Clip score of the caption is 0.3037109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child doing a squat in a gymnasium
+Generating caption for mask  4
+reference caption: , caption: a child doing a squat in a gymnasium
+Clip score of the caption is 0.3037109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child doing a squat in a gymnasium
+Generating caption for mask  5
+reference caption: , caption: a child doing a squat in a gymnasium
+Clip score of the caption is 0.3037109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child doing a squat in a gymnasium
+generating captions for image: 74 data/sa_232555.jpg
+Generating caption for mask  1
+reference caption: , caption: a figure skating competition
+Clip score of the caption is 0.326904296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a figure skating competition
+Generating caption for mask  2
+reference caption: , caption: a figure skating competition
+Clip score of the caption is 0.326904296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a figure skating competition
+Generating caption for mask  3
+reference caption: , caption: a figure skating competition
+Clip score of the caption is 0.326904296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a figure skating competition
+Generating caption for mask  4
+reference caption: , caption: a figure skating competition
+Clip score of the caption is 0.326904296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a figure skating competition
+Generating caption for mask  5
+reference caption: , caption: a figure skating competition
+Clip score of the caption is 0.326904296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a figure skating competition
+generating captions for image: 75 data/sa_232658.jpg
+Generating caption for mask  1
+reference caption: , caption: the band playing at the bowery ballroom
+Clip score of the caption is 0.2432861328125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the bowery ballroom
+Generating caption for mask  2
+reference caption: , caption: the band playing at the bowery ballroom
+Clip score of the caption is 0.2432861328125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the bowery ballroom
+Generating caption for mask  3
+reference caption: , caption: the band playing at the bowery ballroom
+Clip score of the caption is 0.2432861328125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the bowery ballroom
+Generating caption for mask  4
+reference caption: , caption: the band playing at the bowery ballroom
+Clip score of the caption is 0.2432861328125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the bowery ballroom
+Generating caption for mask  5
+reference caption: , caption: the band playing at the bowery ballroom
+Clip score of the caption is 0.2432861328125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the band playing at the bowery ballroom
+generating captions for image: 76 data/sa_232824.jpg
+Generating caption for mask  1
+reference caption: , caption: the malaysian flag
+Clip score of the caption is 0.335693359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the malaysian flag
+Generating caption for mask  2
+reference caption: , caption: the malaysian flag
+Clip score of the caption is 0.335693359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the malaysian flag
+Generating caption for mask  3
+reference caption: , caption: the malaysian flag
+Clip score of the caption is 0.335693359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the malaysian flag
+Generating caption for mask  4
+reference caption: , caption: the malaysian flag
+Clip score of the caption is 0.335693359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the malaysian flag
+Generating caption for mask  5
+reference caption: , caption: the malaysian flag
+Clip score of the caption is 0.335693359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the malaysian flag
+generating captions for image: 77 data/sa_232927.jpg
+Generating caption for mask  1
+reference caption: , caption: a child lying on a slide in a water park
+Clip score of the caption is 0.357177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child lying on a slide in a water park
+Generating caption for mask  2
+reference caption: , caption: a child lying on a slide in a water park
+Clip score of the caption is 0.357177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child lying on a slide in a water park
+Generating caption for mask  3
+reference caption: , caption: a child lying on a slide in a water park
+Clip score of the caption is 0.357177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child lying on a slide in a water park
+Generating caption for mask  4
+reference caption: , caption: a child lying on a slide in a water park
+Clip score of the caption is 0.357177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child lying on a slide in a water park
+Generating caption for mask  5
+reference caption: , caption: a child lying on a slide in a water park
+Clip score of the caption is 0.357177734375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a child lying on a slide in a water park
+generating captions for image: 78 data/sa_232990.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman working on her computer at night
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman working on her computer at night
+Generating caption for mask  2
+reference caption: , caption: a woman working on her computer at night
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman working on her computer at night
+Generating caption for mask  3
+reference caption: , caption: a woman working on her computer at night
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman working on her computer at night
+Generating caption for mask  4
+reference caption: , caption: a woman working on her computer at night
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman working on her computer at night
+Generating caption for mask  5
+reference caption: , caption: a woman working on her computer at night
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman working on her computer at night
+generating captions for image: 79 data/sa_233018.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of liberty
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of liberty
+Generating caption for mask  2
+reference caption: , caption: the statue of liberty
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of liberty
+Generating caption for mask  3
+reference caption: , caption: the statue of liberty
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of liberty
+Generating caption for mask  4
+reference caption: , caption: the statue of liberty
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of liberty
+Generating caption for mask  5
+reference caption: , caption: the statue of liberty
+Clip score of the caption is 0.295654296875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of liberty
+generating captions for image: 80 data/sa_233023.jpg
+Generating caption for mask  1
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.287109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  2
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.287109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  3
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.287109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  4
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.287109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+Generating caption for mask  5
+reference caption: , caption: a man playing a guitar
+Clip score of the caption is 0.287109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man playing a guitar
+generating captions for image: 81 data/sa_233164.jpg
+Generating caption for mask  1
+reference caption: , caption: a monument
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a monument
+Generating caption for mask  2
+reference caption: , caption: a monument
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a monument
+Generating caption for mask  3
+reference caption: , caption: a monument
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a monument
+Generating caption for mask  4
+reference caption: , caption: a monument
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a monument
+Generating caption for mask  5
+reference caption: , caption: a monument
+Clip score of the caption is 0.294189453125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a monument
+generating captions for image: 82 data/sa_233177.jpg
+Generating caption for mask  1
+reference caption: , caption: a man driving a car with his hand on the steering wheel
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man driving a car with his hand on the steering wheel
+Generating caption for mask  2
+reference caption: , caption: a man driving a car with his hand on the steering wheel
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man driving a car with his hand on the steering wheel
+Generating caption for mask  3
+reference caption: , caption: a man driving a car with his hand on the steering wheel
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man driving a car with his hand on the steering wheel
+Generating caption for mask  4
+reference caption: , caption: a man driving a car with his hand on the steering wheel
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man driving a car with his hand on the steering wheel
+Generating caption for mask  5
+reference caption: , caption: a man driving a car with his hand on the steering wheel
+Clip score of the caption is 0.2919921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man driving a car with his hand on the steering wheel
+generating captions for image: 83 data/sa_233224.jpg
+Generating caption for mask  1
+reference caption: , caption: a guitarist playing a guitar
+Clip score of the caption is 0.27001953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a guitarist playing a guitar
+Generating caption for mask  2
+reference caption: , caption: a guitarist playing a guitar
+Clip score of the caption is 0.27001953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a guitarist playing a guitar
+Generating caption for mask  3
+reference caption: , caption: a guitarist playing a guitar
+Clip score of the caption is 0.27001953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a guitarist playing a guitar
+Generating caption for mask  4
+reference caption: , caption: a guitarist playing a guitar
+Clip score of the caption is 0.27001953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a guitarist playing a guitar
+Generating caption for mask  5
+reference caption: , caption: a guitarist playing a guitar
+Clip score of the caption is 0.27001953125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a guitarist playing a guitar
+generating captions for image: 84 data/sa_233248.jpg
+Generating caption for mask  1
+reference caption: , caption: a man with a blurred face
+Clip score of the caption is 0.316162109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man with a blurred face
+Generating caption for mask  2
+reference caption: , caption: a man with a blurred face
+Clip score of the caption is 0.316162109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man with a blurred face
+Generating caption for mask  3
+reference caption: , caption: a man with a blurred face
+Clip score of the caption is 0.316162109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man with a blurred face
+Generating caption for mask  4
+reference caption: , caption: a man with a blurred face
+Clip score of the caption is 0.316162109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man with a blurred face
+Generating caption for mask  5
+reference caption: , caption: a man with a blurred face
+Clip score of the caption is 0.316162109375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man with a blurred face
+generating captions for image: 85 data/sa_233276.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a player in a pink shirt
+Clip score of the caption is 0.306396484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a player in a pink shirt
+Generating caption for mask  2
+reference caption: , caption: the image shows a player in a pink shirt
+Clip score of the caption is 0.306396484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a player in a pink shirt
+Generating caption for mask  3
+reference caption: , caption: the image shows a player in a pink shirt
+Clip score of the caption is 0.306396484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a player in a pink shirt
+Generating caption for mask  4
+reference caption: , caption: the image shows a player in a pink shirt
+Clip score of the caption is 0.306396484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a player in a pink shirt
+Generating caption for mask  5
+reference caption: , caption: the image shows a player in a pink shirt
+Clip score of the caption is 0.306396484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a player in a pink shirt
+generating captions for image: 86 data/sa_233454.jpg
+Generating caption for mask  1
+reference caption: , caption: a statue of a man in a suit
+Clip score of the caption is 0.310546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a man in a suit
+Generating caption for mask  2
+reference caption: , caption: a statue of a man in a suit
+Clip score of the caption is 0.310546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a man in a suit
+Generating caption for mask  3
+reference caption: , caption: a statue of a man in a suit
+Clip score of the caption is 0.310546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a man in a suit
+Generating caption for mask  4
+reference caption: , caption: a statue of a man in a suit
+Clip score of the caption is 0.310546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a man in a suit
+Generating caption for mask  5
+reference caption: , caption: a statue of a man in a suit
+Clip score of the caption is 0.310546875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a statue of a man in a suit
+generating captions for image: 87 data/sa_233676.jpg
+Generating caption for mask  1
+reference caption: , caption: lego minifigures
+Clip score of the caption is 0.305419921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: lego minifigures
+Generating caption for mask  2
+reference caption: , caption: lego minifigures
+Clip score of the caption is 0.305419921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: lego minifigures
+Generating caption for mask  3
+reference caption: , caption: lego minifigures
+Clip score of the caption is 0.305419921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: lego minifigures
+Generating caption for mask  4
+reference caption: , caption: lego minifigures
+Clip score of the caption is 0.305419921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: lego minifigures
+Generating caption for mask  5
+reference caption: , caption: lego minifigures
+Clip score of the caption is 0.305419921875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: lego minifigures
+generating captions for image: 88 data/sa_233729.jpg
+Generating caption for mask  1
+reference caption: , caption: a burnt out light bulb
+Clip score of the caption is 0.2259521484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a burnt out light bulb
+Generating caption for mask  2
+reference caption: , caption: a burnt out light bulb
+Clip score of the caption is 0.2259521484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a burnt out light bulb
+Generating caption for mask  3
+reference caption: , caption: a burnt out light bulb
+Clip score of the caption is 0.2259521484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a burnt out light bulb
+Generating caption for mask  4
+reference caption: , caption: a burnt out light bulb
+Clip score of the caption is 0.2259521484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a burnt out light bulb
+Generating caption for mask  5
+reference caption: , caption: a burnt out light bulb
+Clip score of the caption is 0.2259521484375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a burnt out light bulb
+generating captions for image: 89 data/sa_233811.jpg
+Generating caption for mask  1
+reference caption: , caption: the statue of mary on the top of the church
+Clip score of the caption is 0.3369140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of mary on the top of the church
+Generating caption for mask  2
+reference caption: , caption: the statue of mary on the top of the church
+Clip score of the caption is 0.3369140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of mary on the top of the church
+Generating caption for mask  3
+reference caption: , caption: the statue of mary on the top of the church
+Clip score of the caption is 0.3369140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of mary on the top of the church
+Generating caption for mask  4
+reference caption: , caption: the statue of mary on the top of the church
+Clip score of the caption is 0.3369140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of mary on the top of the church
+Generating caption for mask  5
+reference caption: , caption: the statue of mary on the top of the church
+Clip score of the caption is 0.3369140625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the statue of mary on the top of the church
+generating captions for image: 90 data/sa_233869.jpg
+Generating caption for mask  1
+reference caption: , caption: a man wearing a face mask
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a face mask
+Generating caption for mask  2
+reference caption: , caption: a man wearing a face mask
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a face mask
+Generating caption for mask  3
+reference caption: , caption: a man wearing a face mask
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a face mask
+Generating caption for mask  4
+reference caption: , caption: a man wearing a face mask
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a face mask
+Generating caption for mask  5
+reference caption: , caption: a man wearing a face mask
+Clip score of the caption is 0.2322998046875
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man wearing a face mask
+generating captions for image: 91 data/sa_234072.jpg
+Generating caption for mask  1
+reference caption: , caption: a man suspended upside down on a rope
+Clip score of the caption is 0.323974609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man suspended upside down on a rope
+Generating caption for mask  2
+reference caption: , caption: a man suspended upside down on a rope
+Clip score of the caption is 0.323974609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man suspended upside down on a rope
+Generating caption for mask  3
+reference caption: , caption: a man suspended upside down on a rope
+Clip score of the caption is 0.323974609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man suspended upside down on a rope
+Generating caption for mask  4
+reference caption: , caption: a man suspended upside down on a rope
+Clip score of the caption is 0.323974609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man suspended upside down on a rope
+Generating caption for mask  5
+reference caption: , caption: a man suspended upside down on a rope
+Clip score of the caption is 0.323974609375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man suspended upside down on a rope
+generating captions for image: 92 data/sa_234094.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman in a pink top standing on a beach
+Clip score of the caption is 0.28125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a pink top standing on a beach
+Generating caption for mask  2
+reference caption: , caption: a woman in a pink top standing on a beach
+Clip score of the caption is 0.28125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a pink top standing on a beach
+Generating caption for mask  3
+reference caption: , caption: a woman in a pink top standing on a beach
+Clip score of the caption is 0.28125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a pink top standing on a beach
+Generating caption for mask  4
+reference caption: , caption: a woman in a pink top standing on a beach
+Clip score of the caption is 0.28125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a pink top standing on a beach
+Generating caption for mask  5
+reference caption: , caption: a woman in a pink top standing on a beach
+Clip score of the caption is 0.28125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman in a pink top standing on a beach
+generating captions for image: 93 data/sa_234130.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a group of people standing in front of a tent
+Clip score of the caption is 0.2457275390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a group of people standing in front of a tent
+Generating caption for mask  2
+reference caption: , caption: the image shows a group of people standing in front of a tent
+Clip score of the caption is 0.2457275390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a group of people standing in front of a tent
+Generating caption for mask  3
+reference caption: , caption: the image shows a group of people standing in front of a tent
+Clip score of the caption is 0.2457275390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a group of people standing in front of a tent
+Generating caption for mask  4
+reference caption: , caption: the image shows a group of people standing in front of a tent
+Clip score of the caption is 0.2457275390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a group of people standing in front of a tent
+Generating caption for mask  5
+reference caption: , caption: the image shows a group of people standing in front of a tent
+Clip score of the caption is 0.2457275390625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a group of people standing in front of a tent
+generating captions for image: 94 data/sa_234375.jpg
+Generating caption for mask  1
+reference caption: , caption: the pope
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the pope
+Generating caption for mask  2
+reference caption: , caption: the pope
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the pope
+Generating caption for mask  3
+reference caption: , caption: the pope
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the pope
+Generating caption for mask  4
+reference caption: , caption: the pope
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the pope
+Generating caption for mask  5
+reference caption: , caption: the pope
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the pope
+generating captions for image: 95 data/sa_234499.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows a man in a leather outfit singing on stage
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man in a leather outfit singing on stage
+Generating caption for mask  2
+reference caption: , caption: the image shows a man in a leather outfit singing on stage
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man in a leather outfit singing on stage
+Generating caption for mask  3
+reference caption: , caption: the image shows a man in a leather outfit singing on stage
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man in a leather outfit singing on stage
+Generating caption for mask  4
+reference caption: , caption: the image shows a man in a leather outfit singing on stage
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man in a leather outfit singing on stage
+Generating caption for mask  5
+reference caption: , caption: the image shows a man in a leather outfit singing on stage
+Clip score of the caption is 0.338134765625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows a man in a leather outfit singing on stage
+generating captions for image: 96 data/sa_234599.jpg
+Generating caption for mask  1
+reference caption: , caption: a man doing yoga on the beach
+Clip score of the caption is 0.3056640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man doing yoga on the beach
+Generating caption for mask  2
+reference caption: , caption: a man doing yoga on the beach
+Clip score of the caption is 0.3056640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man doing yoga on the beach
+Generating caption for mask  3
+reference caption: , caption: a man doing yoga on the beach
+Clip score of the caption is 0.3056640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man doing yoga on the beach
+Generating caption for mask  4
+reference caption: , caption: a man doing yoga on the beach
+Clip score of the caption is 0.3056640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man doing yoga on the beach
+Generating caption for mask  5
+reference caption: , caption: a man doing yoga on the beach
+Clip score of the caption is 0.3056640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a man doing yoga on the beach
+generating captions for image: 97 data/sa_234813.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman holding a torch
+Clip score of the caption is 0.31640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a torch
+Generating caption for mask  2
+reference caption: , caption: a woman holding a torch
+Clip score of the caption is 0.31640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a torch
+Generating caption for mask  3
+reference caption: , caption: a woman holding a torch
+Clip score of the caption is 0.31640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a torch
+Generating caption for mask  4
+reference caption: , caption: a woman holding a torch
+Clip score of the caption is 0.31640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a torch
+Generating caption for mask  5
+reference caption: , caption: a woman holding a torch
+Clip score of the caption is 0.31640625
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman holding a torch
+generating captions for image: 98 data/sa_234836.jpg
+Generating caption for mask  1
+reference caption: , caption: a woman wearing a face mask
+Clip score of the caption is 0.21923828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a face mask
+Generating caption for mask  2
+reference caption: , caption: a woman wearing a face mask
+Clip score of the caption is 0.21923828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a face mask
+Generating caption for mask  3
+reference caption: , caption: a woman wearing a face mask
+Clip score of the caption is 0.21923828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a face mask
+Generating caption for mask  4
+reference caption: , caption: a woman wearing a face mask
+Clip score of the caption is 0.21923828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a face mask
+Generating caption for mask  5
+reference caption: , caption: a woman wearing a face mask
+Clip score of the caption is 0.21923828125
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: a woman wearing a face mask
+generating captions for image: 99 data/sa_234869.jpg
+Generating caption for mask  1
+reference caption: , caption: the image shows the player in the green shirt
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the player in the green shirt
+Generating caption for mask  2
+reference caption: , caption: the image shows the player in the green shirt
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the player in the green shirt
+Generating caption for mask  3
+reference caption: , caption: the image shows the player in the green shirt
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the player in the green shirt
+Generating caption for mask  4
+reference caption: , caption: the image shows the player in the green shirt
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the player in the green shirt
+Generating caption for mask  5
+reference caption: , caption: the image shows the player in the green shirt
+Clip score of the caption is 0.29443359375
+
+Processed ImageCaptioning by BLIP2Captioner, Output Text: the image shows the player in the green shirt
+
+Average clip score:  0.28906494140625

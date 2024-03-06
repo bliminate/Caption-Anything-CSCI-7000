@@ -1,0 +1,1607 @@
+Average clip score: 0.246506591796875
+Max Clip score was 0.354248046875 for data/sa_233276.jpg
+
+Caption 1: Question: what does the image show? Answer:
+Caption 2: Describe the {} in the picture. Answer:
+Image: data/sa_223769.jpg
+Mask: 1
+Final Result: {'clip_score': 0.255859375, 'caption': 'statue', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.255859375, 'caption': 'statue', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.27783203125, 'caption': 'the statue of st joseph is in the middle of the city, the statue of st joseph is in the middle of the city, the statue of st joseph is in the middle of the city, the statue of st j', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27783203125, 'caption': 'the statue of st joseph is in the middle of the city, the statue of st joseph is in the middle of the city, the statue of st joseph is in the middle of the city, the statue of st j', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2196044921875, 'caption': 'a rock in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2196044921875, 'caption': 'a rock in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.256591796875, 'caption': 'a statue', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.256591796875, 'caption': 'a statue', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2012939453125, 'caption': "a bird's wing", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2012939453125, 'caption': "a bird's wing", 'crop_save_path': None}
+Image: data/sa_223795.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2266845703125, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2266845703125, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2158203125, 'caption': 'a heart shape', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2158203125, 'caption': 'a heart shape', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.237548828125, 'caption': 'a green apple', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.237548828125, 'caption': 'a green apple', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2408447265625, 'caption': 'a hand with a fist', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2408447265625, 'caption': 'a hand with a fist', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2333984375, 'caption': 'a human head in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2333984375, 'caption': 'a human head in the picture', 'crop_save_path': None}
+Image: data/sa_223829.jpg
+Mask: 1
+Final Result: {'clip_score': 0.255615234375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.255615234375, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.22998046875, 'caption': 'black', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22998046875, 'caption': 'black', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.255615234375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.255615234375, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.3095703125, 'caption': 'a suit jacket with a white shirt and a black tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3095703125, 'caption': 'a suit jacket with a white shirt and a black tie', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.25927734375, 'caption': 'black', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25927734375, 'caption': 'black', 'crop_save_path': None}
+Image: data/sa_223883.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2186279296875, 'caption': 'a white wall with a black background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2186279296875, 'caption': 'a white wall with a black background', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.218505859375, 'caption': 'the book is a book of the bible', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.218505859375, 'caption': 'the book is a book of the bible', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2464599609375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2464599609375, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2464599609375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2464599609375, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2060546875, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2060546875, 'caption': '', 'crop_save_path': None}
+Image: data/sa_224139.jpg
+Mask: 1
+Final Result: {'clip_score': 0.279052734375, 'caption': 'a black head scarf', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.279052734375, 'caption': 'a black head scarf', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2030029296875, 'caption': 'a blue and white object', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2030029296875, 'caption': 'a blue and white object', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.233154296875, 'caption': 'a heart in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.233154296875, 'caption': 'a heart in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.248779296875, 'caption': 'a pink and blue cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.248779296875, 'caption': 'a pink and blue cloud in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.1717529296875, 'caption': 'a black and white photo of a black and white cat in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1717529296875, 'caption': 'a black and white photo of a black and white cat in the picture', 'crop_save_path': None}
+Image: data/sa_224249.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2335205078125, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2335205078125, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.248291015625, 'caption': 'a woman in a suit and tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.248291015625, 'caption': 'a woman in a suit and tie', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.266845703125, 'caption': 'a man in a suit', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.266845703125, 'caption': 'a man in a suit', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2086181640625, 'caption': 'the image shows a map of the city of london in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2086181640625, 'caption': 'the image shows a map of the city of london in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.27197265625, 'caption': 'pants', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27197265625, 'caption': 'pants', 'crop_save_path': None}
+Image: data/sa_224332.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.268798828125, 'caption': 'the picture shows a coal mine in the background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.268798828125, 'caption': 'the picture shows a coal mine in the background', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2203369140625, 'caption': 'the sun setting over a city skyline', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2242431640625, 'caption': 'the dog is in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2242431640625, 'caption': 'the dog is in the picture', 'crop_save_path': None}
+Image: data/sa_224535.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2734375, 'caption': "a woman's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2734375, 'caption': "a woman's face", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.275634765625, 'caption': 'a woman in a white shirt and jacket is holding a bottle of liquid', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.275634765625, 'caption': 'a woman in a white shirt and jacket is holding a bottle of liquid', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2147216796875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2147216796875, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.172607421875, 'caption': 'a snowman is a man dressed in a white suit and a red hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.172607421875, 'caption': 'a snowman is a man dressed in a white suit and a red hat', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.27294921875, 'caption': 'a woman in a white shirt and red tie is holding a bottle of liquid', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27294921875, 'caption': 'a woman in a white shirt and red tie is holding a bottle of liquid', 'crop_save_path': None}
+Image: data/sa_224561.jpg
+Mask: 1
+Final Result: {'clip_score': 0.297607421875, 'caption': 'a man wearing a hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.297607421875, 'caption': 'a man wearing a hat', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.20947265625, 'caption': 'the image shows a map of the island of hawaii in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.20947265625, 'caption': 'the image shows a map of the island of hawaii in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.26953125, 'caption': 'a man with a beard and glasses', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26953125, 'caption': 'a man with a beard and glasses', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.291748046875, 'caption': 'a man wearing a hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.291748046875, 'caption': 'a man wearing a hat', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.27197265625, 'caption': 'a man in a black jacket', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27197265625, 'caption': 'a man in a black jacket', 'crop_save_path': None}
+Image: data/sa_224638.jpg
+Mask: 1
+Final Result: {'clip_score': 0.302490234375, 'caption': 'the man is playing a trombone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.302490234375, 'caption': 'the man is playing a trombone', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.278076171875, 'caption': 'a man in a suit', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.278076171875, 'caption': 'a man in a suit', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.207763671875, 'caption': 'a black and red hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.207763671875, 'caption': 'a black and red hat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.307861328125, 'caption': 'a trombone player and a trumpet player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.307861328125, 'caption': 'a trombone player and a trumpet player', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.246337890625, 'caption': 'the black hoodie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.246337890625, 'caption': 'the black hoodie', 'crop_save_path': None}
+Image: data/sa_224770.jpg
+Mask: 1
+Final Result: {'clip_score': 0.1905517578125, 'caption': 'a building in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1905517578125, 'caption': 'a building in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2120361328125, 'caption': 'a white sheet with a blue border', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2120361328125, 'caption': 'a white sheet with a blue border', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.296630859375, 'caption': 'a white shirt with a red and blue belt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.296630859375, 'caption': 'a white shirt with a red and blue belt', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.296142578125, 'caption': 'a white shirt with a red and blue belt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.296142578125, 'caption': 'a white shirt with a red and blue belt', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.30224609375, 'caption': 'a pair of white pants with a yellow stripe', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.30224609375, 'caption': 'a pair of white pants with a yellow stripe', 'crop_save_path': None}
+Image: data/sa_224845.jpg
+Mask: 1
+Final Result: {'clip_score': 0.294189453125, 'caption': 'big trees project', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.294189453125, 'caption': 'big trees project', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2186279296875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2186279296875, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2469482421875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2469482421875, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.349365234375, 'caption': 'The big trees logo is a tree with a green leaf and a tree trunk', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.349365234375, 'caption': 'The big trees logo is a tree with a green leaf and a tree trunk', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2578125, 'caption': 'the letter g is a letter that is used to write the word g', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2578125, 'caption': 'the letter g is a letter that is used to write the word g', 'crop_save_path': None}
+Image: data/sa_224859.jpg
+Mask: 1
+Final Result: {'clip_score': 0.231689453125, 'caption': 'short', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.231689453125, 'caption': 'short', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.241943359375, 'caption': 'a green field', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.241943359375, 'caption': 'a green field', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.212158203125, 'caption': 'a cat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.212158203125, 'caption': 'a cat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2003173828125, 'caption': 'the state of minnesota is in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2003173828125, 'caption': 'the state of minnesota is in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.301025390625, 'caption': 'a blue sweatshirt with a white background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.301025390625, 'caption': 'a blue sweatshirt with a white background', 'crop_save_path': None}
+Image: data/sa_225023.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2486572265625, 'caption': 'a cloud', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2486572265625, 'caption': 'a cloud', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.252197265625, 'caption': 'a blue kite', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.252197265625, 'caption': 'a blue kite', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2113037109375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2113037109375, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.27587890625, 'caption': 'the image shows a brown cow in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27587890625, 'caption': 'the image shows a brown cow in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.1798095703125, 'caption': 'a man standing in front of a building', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1798095703125, 'caption': 'a man standing in front of a building', 'crop_save_path': None}
+Image: data/sa_225274.jpg
+Mask: 1
+Final Result: {'clip_score': 0.26123046875, 'caption': "the horse's head is a round shape", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26123046875, 'caption': "the horse's head is a round shape", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2227783203125, 'caption': 'a man in a blue and white striped shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2227783203125, 'caption': 'a man in a blue and white striped shirt', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2364501953125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2364501953125, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.265380859375, 'caption': 'a man in a suit', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.265380859375, 'caption': 'a man in a suit', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.254150390625, 'caption': 'a blue diamond with a yellow center', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.254150390625, 'caption': 'a blue diamond with a yellow center', 'crop_save_path': None}
+Image: data/sa_225279.jpg
+Mask: 1
+Final Result: {'clip_score': 0.286865234375, 'caption': 'a gold star in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.286865234375, 'caption': 'a gold star in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.321044921875, 'caption': 'the statue is holding up three stars', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.321044921875, 'caption': 'the statue is holding up three stars', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.274169921875, 'caption': 'a head in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.274169921875, 'caption': 'a head in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.326904296875, 'caption': 'the statue is holding up a star', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.326904296875, 'caption': 'the statue is holding up a star', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.264404296875, 'caption': 'the mannequin is wearing a green dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.264404296875, 'caption': 'the mannequin is wearing a green dress', 'crop_save_path': None}
+Image: data/sa_225310.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2252197265625, 'caption': "a baby's head", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2252197265625, 'caption': "a baby's head", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2213134765625, 'caption': 'a rock', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2213134765625, 'caption': 'a rock', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.278564453125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.278564453125, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2763671875, 'caption': 'a hand with a finger up', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2763671875, 'caption': 'a hand with a finger up', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.285888671875, 'caption': 'a rainbow flag is a flag that is made up of a number of different colors', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.285888671875, 'caption': 'a rainbow flag is a flag that is made up of a number of different colors', 'crop_save_path': None}
+Image: data/sa_225324.jpg
+Mask: 1
+Final Result: {'clip_score': 0.336669921875, 'caption': 'figure skating', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.336669921875, 'caption': 'figure skating', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.348388671875, 'caption': 'figure skating', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.348388671875, 'caption': 'figure skating', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.28466796875, 'caption': 'a blue and white dress with a blue ribbon', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28466796875, 'caption': 'a blue and white dress with a blue ribbon', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.345947265625, 'caption': 'a figure skating on ice', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.345947265625, 'caption': 'a figure skating on ice', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.303955078125, 'caption': 'a pair of ice skates', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.303955078125, 'caption': 'a pair of ice skates', 'crop_save_path': None}
+Image: data/sa_225551.jpg
+Mask: 1
+Final Result: {'clip_score': 0.298095703125, 'caption': 'a sunset with a plane flying over it', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.298095703125, 'caption': 'a sunset with a plane flying over it', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2353515625, 'caption': 'a cityscape with a city skyline', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2353515625, 'caption': 'a cityscape with a city skyline', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2159423828125, 'caption': 'a man in a white shirt and a black hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2159423828125, 'caption': 'a man in a white shirt and a black hat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.23681640625, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23681640625, 'caption': '', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21728515625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21728515625, 'caption': 'person', 'crop_save_path': None}
+Image: data/sa_225608.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2149658203125, 'caption': 'a cat in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2149658203125, 'caption': 'a cat in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.21923828125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21923828125, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2237548828125, 'caption': 'a purple heart', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2237548828125, 'caption': 'a purple heart', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.3271484375, 'caption': 'a person playing a bass guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3271484375, 'caption': 'a person playing a bass guitar', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2296142578125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2296142578125, 'caption': 'a', 'crop_save_path': None}
+Image: data/sa_225672.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2371826171875, 'caption': 'the word now', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2371826171875, 'caption': 'the word now', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.3173828125, 'caption': 'know justice know peace', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3173828125, 'caption': 'know justice know peace', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.270751953125, 'caption': 'the letter t is written in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.270751953125, 'caption': 'the letter t is written in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.3173828125, 'caption': 'know justice know peace', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3173828125, 'caption': 'know justice know peace', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.293701171875, 'caption': 'justice know peace', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.293701171875, 'caption': 'justice know peace', 'crop_save_path': None}
+Image: data/sa_225743.jpg
+Mask: 1
+Final Result: {'clip_score': 0.3193359375, 'caption': 'a desk lamp', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3193359375, 'caption': 'a desk lamp', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.344482421875, 'caption': 'a stained glass lamp shade in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.344482421875, 'caption': 'a stained glass lamp shade in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.19384765625, 'caption': 'the state of new york is a state in the united states of america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.19384765625, 'caption': 'the state of new york is a state in the united states of america', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.19970703125, 'caption': 'a man', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.19970703125, 'caption': 'a man', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2783203125, 'caption': 'the computer is a black and white computer', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2783203125, 'caption': 'the computer is a black and white computer', 'crop_save_path': None}
+Image: data/sa_225849.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2431640625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2431640625, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.254150390625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.254150390625, 'caption': 'person', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2357177734375, 'caption': 'a bald head in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2357177734375, 'caption': 'a bald head in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.26318359375, 'caption': 'The arm of a man reaching out to touch something in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26318359375, 'caption': 'The arm of a man reaching out to touch something in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21923828125, 'caption': 'a black feather', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21923828125, 'caption': 'a black feather', 'crop_save_path': None}
+Image: data/sa_225921.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2587890625, 'caption': 'The man is holding a rifle and a computer mouse', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2587890625, 'caption': 'The man is holding a rifle and a computer mouse', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.3046875, 'caption': 'the statue of a soldier holding a rifle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3046875, 'caption': 'the statue of a soldier holding a rifle', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.29736328125, 'caption': 'a soldier holding a rifle in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29736328125, 'caption': 'a soldier holding a rifle in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.266357421875, 'caption': 'a soldier', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.266357421875, 'caption': 'a soldier', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2430419921875, 'caption': 'a man flying a kite in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2430419921875, 'caption': 'a man flying a kite in the picture', 'crop_save_path': None}
+Image: data/sa_225948.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2120361328125, 'caption': 'a window', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2120361328125, 'caption': 'a window', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2401123046875, 'caption': 'a white cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2401123046875, 'caption': 'a white cloud in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2120361328125, 'caption': 'a rock', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2120361328125, 'caption': 'a rock', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.246337890625, 'caption': 'a black hair wig is a wig that is made of black hair', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.246337890625, 'caption': 'a black hair wig is a wig that is made of black hair', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.214599609375, 'caption': 'the person is wearing a mask', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.214599609375, 'caption': 'the person is wearing a mask', 'crop_save_path': None}
+Image: data/sa_226032.jpg
+Mask: 1
+Final Result: {'clip_score': 0.249755859375, 'caption': "a person's face is a person's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.249755859375, 'caption': "a person's face is a person's face", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.272705078125, 'caption': 'a man in a white shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.272705078125, 'caption': 'a man in a white shirt', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2059326171875, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2059326171875, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2335205078125, 'caption': 'the image shows the front of the vehicle in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2335205078125, 'caption': 'the image shows the front of the vehicle in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.282958984375, 'caption': 'a white shirt and tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.282958984375, 'caption': 'a white shirt and tie', 'crop_save_path': None}
+Image: data/sa_226158.jpg
+Mask: 1
+Final Result: {'clip_score': 0.27685546875, 'caption': 'a statue of a man flying a kite in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27685546875, 'caption': 'a statue of a man flying a kite in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.266845703125, 'caption': 'a statue of a man', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.266845703125, 'caption': 'a statue of a man', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.280517578125, 'caption': 'a statue of a man with a blue shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.280517578125, 'caption': 'a statue of a man with a blue shirt', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2724609375, 'caption': 'a statue of a man', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2724609375, 'caption': 'a statue of a man', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.263916015625, 'caption': 'the statue of johnny cash', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.263916015625, 'caption': 'the statue of johnny cash', 'crop_save_path': None}
+Image: data/sa_226283.jpg
+Mask: 1
+Final Result: {'clip_score': 0.212158203125, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.212158203125, 'caption': '', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.229736328125, 'caption': 'a hat in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.229736328125, 'caption': 'a hat in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.256103515625, 'caption': 'a cat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.256103515625, 'caption': 'a cat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2391357421875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2391357421875, 'caption': 'person', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2216796875, 'caption': 'a black cow hide in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2216796875, 'caption': 'a black cow hide in the picture', 'crop_save_path': None}
+Image: data/sa_226827.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2069091796875, 'caption': 'a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2069091796875, 'caption': 'a rectangle', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2305908203125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2305908203125, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.29150390625, 'caption': 'the hand of a person in the picture is holding a white ball', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29150390625, 'caption': 'the hand of a person in the picture is holding a white ball', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.29345703125, 'caption': 'a table tennis player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29345703125, 'caption': 'a table tennis player', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.245361328125, 'caption': 'a metal tube', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.245361328125, 'caption': 'a metal tube', 'crop_save_path': None}
+Image: data/sa_226889.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2408447265625, 'caption': 'a young boy', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2408447265625, 'caption': 'a young boy', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2210693359375, 'caption': 'a hand pointing in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2210693359375, 'caption': 'a hand pointing in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2425537109375, 'caption': 'a young boy', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2425537109375, 'caption': 'a young boy', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.1954345703125, 'caption': 'the desert is a place where there is no water', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1954345703125, 'caption': 'the desert is a place where there is no water', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.26220703125, 'caption': 'a boy with a hole in his shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26220703125, 'caption': 'a boy with a hole in his shirt', 'crop_save_path': None}
+Image: data/sa_226912.jpg
+Mask: 1
+Final Result: {'clip_score': 0.13623046875, 'caption': 'a man and a woman in the snow', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.13623046875, 'caption': 'a man and a woman in the snow', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2203369140625, 'caption': 'a boy and a girl', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2203369140625, 'caption': 'a boy and a girl', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.259765625, 'caption': 'the spanish flag is a red flag with a white cross on it', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.259765625, 'caption': 'the spanish flag is a red flag with a white cross on it', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.27490234375, 'caption': 'the man is pointing to a boy in a red shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27490234375, 'caption': 'the man is pointing to a boy in a red shirt', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2098388671875, 'caption': 'red', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2098388671875, 'caption': 'red', 'crop_save_path': None}
+Image: data/sa_227081.jpg
+Mask: 1
+Final Result: {'clip_score': 0.26708984375, 'caption': "a woman's head with a long hair", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26708984375, 'caption': "a woman's head with a long hair", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.260498046875, 'caption': 'a white paper bag with a triangle shape in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.260498046875, 'caption': 'a white paper bag with a triangle shape in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.307373046875, 'caption': 'the hair is black', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.307373046875, 'caption': 'the hair is black', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.320556640625, 'caption': "a doctor's coat is a long-sleeved white coat with a collar and a lapel", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.320556640625, 'caption': "a doctor's coat is a long-sleeved white coat with a collar and a lapel", 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.22802734375, 'caption': 'a white elephant is a large white elephant that is a symbol of wealth and prosperity in china', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22802734375, 'caption': 'a white elephant is a large white elephant that is a symbol of wealth and prosperity in china', 'crop_save_path': None}
+Image: data/sa_227291.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2362060546875, 'caption': 'a person in a red hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2362060546875, 'caption': 'a person in a red hat', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1925048828125, 'caption': 'the image shows a map of the island of japan in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1925048828125, 'caption': 'the image shows a map of the island of japan in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.252197265625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.252197265625, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.214599609375, 'caption': 'the door is red', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.214599609375, 'caption': 'the door is red', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2164306640625, 'caption': 'A kite', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2164306640625, 'caption': 'A kite', 'crop_save_path': None}
+Image: data/sa_227357.jpg
+Mask: 1
+Final Result: {'clip_score': 0.260986328125, 'caption': "a man's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.260986328125, 'caption': "a man's face", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2548828125, 'caption': 'rugby', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2548828125, 'caption': 'rugby', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.281005859375, 'caption': 'a rugby player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.281005859375, 'caption': 'a rugby player', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.240478515625, 'caption': 'rugby players', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.240478515625, 'caption': 'rugby players', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2587890625, 'caption': 'rugby player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2587890625, 'caption': 'rugby player', 'crop_save_path': None}
+Image: data/sa_227439.jpg
+Mask: 1
+Final Result: {'clip_score': 0.255615234375, 'caption': 'a human head with a black background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.255615234375, 'caption': 'a human head with a black background', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.236572265625, 'caption': 'a man in a white robe', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.236572265625, 'caption': 'a man in a white robe', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2384033203125, 'caption': 'a leaf', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2384033203125, 'caption': 'a leaf', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.25830078125, 'caption': 'a woman in a traditional chinese dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25830078125, 'caption': 'a woman in a traditional chinese dress', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2391357421875, 'caption': 'a human skeleton', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2391357421875, 'caption': 'a human skeleton', 'crop_save_path': None}
+Image: data/sa_227495.jpg
+Mask: 1
+Final Result: {'clip_score': 0.258056640625, 'caption': "a black man's head", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.258056640625, 'caption': "a black man's head", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2086181640625, 'caption': 'the outline of florida is a state in the united states of america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2086181640625, 'caption': 'the outline of florida is a state in the united states of america', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.26513671875, 'caption': 'a woman with a black background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26513671875, 'caption': 'a woman with a black background', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2440185546875, 'caption': 'a hand reaching for something in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2440185546875, 'caption': 'a hand reaching for something in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.253662109375, 'caption': 'a woman with a large forehead', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.253662109375, 'caption': 'a woman with a large forehead', 'crop_save_path': None}
+Image: data/sa_227497.jpg
+Mask: 1
+Final Result: {'clip_score': 0.263427734375, 'caption': 'a purple sphere', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.263427734375, 'caption': 'a purple sphere', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.347412109375, 'caption': 'a woman in a pink tank top is running in a race', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.347412109375, 'caption': 'a woman in a pink tank top is running in a race', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.309326171875, 'caption': 'a woman running in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.309326171875, 'caption': 'a woman running in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.281005859375, 'caption': 'a woman in a purple tank top', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.281005859375, 'caption': 'a woman in a purple tank top', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.298095703125, 'caption': 'a woman wearing a purple tank top and holding a white sign', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.298095703125, 'caption': 'a woman wearing a purple tank top and holding a white sign', 'crop_save_path': None}
+Image: data/sa_227523.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2261962890625, 'caption': 'a bottle of water', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2261962890625, 'caption': 'a bottle of water', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1513671875, 'caption': 'a man in a white shirt and black pants', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1513671875, 'caption': 'a man in a white shirt and black pants', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.21484375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21484375, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.202392578125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.202392578125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.190673828125, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.190673828125, 'caption': '', 'crop_save_path': None}
+Image: data/sa_227537.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2344970703125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2344970703125, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.309814453125, 'caption': 'a black suit with a white collar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.309814453125, 'caption': 'a black suit with a white collar', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.222900390625, 'caption': 'the image shows a black and white map of the united states in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.222900390625, 'caption': 'the image shows a black and white map of the united states in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.289306640625, 'caption': 'a man in a suit standing in front of a black background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.289306640625, 'caption': 'a man in a suit standing in front of a black background', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.233642578125, 'caption': 'the belt is a belt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.233642578125, 'caption': 'the belt is a belt', 'crop_save_path': None}
+Image: data/sa_227554.jpg
+Mask: 1
+Final Result: {'clip_score': 0.268798828125, 'caption': 'A wig is a hairpiece that is worn to cover balding areas of the scalp.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.268798828125, 'caption': 'A wig is a hairpiece that is worn to cover balding areas of the scalp.', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2763671875, 'caption': 'the man is holding a piece of paper and the woman is holding a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2763671875, 'caption': 'the man is holding a piece of paper and the woman is holding a microphone', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2427978515625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2427978515625, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.263916015625, 'caption': 'a rainbow flag', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.263916015625, 'caption': 'a rainbow flag', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21533203125, 'caption': 'a piece of cloth', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21533203125, 'caption': 'a piece of cloth', 'crop_save_path': None}
+Image: data/sa_227690.jpg
+Mask: 1
+Final Result: {'clip_score': 0.28662109375, 'caption': 'a woman smoking a cigarette', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28662109375, 'caption': 'a woman smoking a cigarette', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.185302734375, 'caption': 'the cat is sitting on a chair', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.185302734375, 'caption': 'the cat is sitting on a chair', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2198486328125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2198486328125, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.276611328125, 'caption': 'a purple and white cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.276611328125, 'caption': 'a purple and white cloud in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2200927734375, 'caption': 'the shape of the state of oregon is a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2200927734375, 'caption': 'the shape of the state of oregon is a rectangle', 'crop_save_path': None}
+Image: data/sa_227784.jpg
+Mask: 1
+Final Result: {'clip_score': 0.300537109375, 'caption': 'a hand reaching for a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.300537109375, 'caption': 'a hand reaching for a microphone', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2425537109375, 'caption': 'he is singing', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2425537109375, 'caption': 'he is singing', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.260009765625, 'caption': 'the image shows a black and white bird in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.260009765625, 'caption': 'the image shows a black and white bird in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.22412109375, 'caption': 'the man is holding a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22412109375, 'caption': 'the man is holding a microphone', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.286376953125, 'caption': 'a shirt with stars on it', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.286376953125, 'caption': 'a shirt with stars on it', 'crop_save_path': None}
+Image: data/sa_227809.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2012939453125, 'caption': 'the heart is a symbol of love', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2012939453125, 'caption': 'the heart is a symbol of love', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2225341796875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2225341796875, 'caption': 'person', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.193359375, 'caption': 'a stingray is a type of fish that is found in the ocean', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.193359375, 'caption': 'a stingray is a type of fish that is found in the ocean', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.25244140625, 'caption': 'The back of the white t-shirt is white', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25244140625, 'caption': 'The back of the white t-shirt is white', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2178955078125, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2178955078125, 'caption': 'person', 'crop_save_path': None}
+Image: data/sa_228236.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2215576171875, 'caption': 'a piece of paper', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2215576171875, 'caption': 'a piece of paper', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.192626953125, 'caption': 'a black car seat cover', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.192626953125, 'caption': 'a black car seat cover', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2318115234375, 'caption': 'a stain on a white surface', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2318115234375, 'caption': 'a stain on a white surface', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.232177734375, 'caption': 'a person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.232177734375, 'caption': 'a person', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.232177734375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.232177734375, 'caption': 'a', 'crop_save_path': None}
+Image: data/sa_228599.jpg
+Mask: 1
+Final Result: {'clip_score': 0.22265625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22265625, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1923828125, 'caption': 'the blue whale is a large marine mammal that lives in the ocean', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1923828125, 'caption': 'the blue whale is a large marine mammal that lives in the ocean', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.22705078125, 'caption': 'a person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22705078125, 'caption': 'a person', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.256103515625, 'caption': 'A wooden frame', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.256103515625, 'caption': 'A wooden frame', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2210693359375, 'caption': 'a fossilized bone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2210693359375, 'caption': 'a fossilized bone', 'crop_save_path': None}
+Image: data/sa_228850.jpg
+Mask: 1
+Final Result: {'clip_score': 0.23046875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23046875, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2401123046875, 'caption': "a man's face in the picture", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2401123046875, 'caption': "a man's face in the picture", 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2447509765625, 'caption': 'the orange socks are in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2447509765625, 'caption': 'the orange socks are in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2110595703125, 'caption': 'The man is standing on a bridge', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2110595703125, 'caption': 'The man is standing on a bridge', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.177734375, 'caption': 'the image shows a map of the united states in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.177734375, 'caption': 'the image shows a map of the united states in the picture', 'crop_save_path': None}
+Image: data/sa_228944.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2685546875, 'caption': 'the sun setting over the ocean', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2685546875, 'caption': 'the sun setting over the ocean', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2113037109375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2113037109375, 'caption': '', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.276123046875, 'caption': 'a sunset in the desert', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.276123046875, 'caption': 'a sunset in the desert', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.218505859375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.218505859375, 'caption': '', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.284912109375, 'caption': 'the ferrari logo is blue and white', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.284912109375, 'caption': 'the ferrari logo is blue and white', 'crop_save_path': None}
+Image: data/sa_228952.jpg
+Mask: 1
+Final Result: {'clip_score': 0.258056640625, 'caption': 'fireworks', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.258056640625, 'caption': 'fireworks', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1944580078125, 'caption': 'the handle is a plastic handle that is used to open the door', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1944580078125, 'caption': 'the handle is a plastic handle that is used to open the door', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.263671875, 'caption': 'fireworks', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.263671875, 'caption': 'fireworks', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.1568603515625, 'caption': 'a man in a black and white picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1568603515625, 'caption': 'a man in a black and white picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.27783203125, 'caption': 'fireworks', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27783203125, 'caption': 'fireworks', 'crop_save_path': None}
+Image: data/sa_228991.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2841796875, 'caption': 'a woman with a blurred face', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2841796875, 'caption': 'a woman with a blurred face', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.310546875, 'caption': 'a woman with a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.310546875, 'caption': 'a woman with a microphone', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2685546875, 'caption': "a person's face is shown in the picture", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2685546875, 'caption': "a person's face is shown in the picture", 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.21728515625, 'caption': 'a woman', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21728515625, 'caption': 'a woman', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.31494140625, 'caption': 'the neck of a woman in the picture is long and has a lot of hair', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.31494140625, 'caption': 'the neck of a woman in the picture is long and has a lot of hair', 'crop_save_path': None}
+Image: data/sa_229307.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2469482421875, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2469482421875, 'caption': '', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2056884765625, 'caption': 'a person is walking in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2056884765625, 'caption': 'a person is walking in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2410888671875, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2410888671875, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2203369140625, 'caption': 'the man is wearing a black hat and a white shirt.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2203369140625, 'caption': 'the man is wearing a black hat and a white shirt.', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.231201171875, 'caption': 'a piece of paper', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.231201171875, 'caption': 'a piece of paper', 'crop_save_path': None}
+Image: data/sa_229377.jpg
+Mask: 1
+Final Result: {'clip_score': 0.282470703125, 'caption': 'the statue of christ in rio de janeiro, brazil in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.282470703125, 'caption': 'the statue of christ in rio de janeiro, brazil in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.29541015625, 'caption': 'the brazilian flag is a blue field with a white stripe on the top and a yellow stripe on the bottom', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29541015625, 'caption': 'the brazilian flag is a blue field with a white stripe on the top and a yellow stripe on the bottom', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.346435546875, 'caption': 'the statue of christ is a statue of a man holding a ticket to the final of the world cup', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.346435546875, 'caption': 'the statue of christ is a statue of a man holding a ticket to the final of the world cup', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.316650390625, 'caption': 'the statue of jesus in rio de janeiro, brazil', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.316650390625, 'caption': 'the statue of jesus in rio de janeiro, brazil', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.276611328125, 'caption': 'the brazil is a country in south america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.276611328125, 'caption': 'the brazil is a country in south america', 'crop_save_path': None}
+Image: data/sa_229517.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2462158203125, 'caption': 'a man in a suit', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2462158203125, 'caption': 'a man in a suit', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2415771484375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2415771484375, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.266845703125, 'caption': "a man's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.266845703125, 'caption': "a man's face", 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.243408203125, 'caption': 'a man in a suit and tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.243408203125, 'caption': 'a man in a suit and tie', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21044921875, 'caption': 'a white sheet of paper', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21044921875, 'caption': 'a white sheet of paper', 'crop_save_path': None}
+Image: data/sa_229522.jpg
+Mask: 1
+Final Result: {'clip_score': 0.221923828125, 'caption': "a man's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.221923828125, 'caption': "a man's face", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2008056640625, 'caption': 'a black triangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2008056640625, 'caption': 'a black triangle', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.20947265625, 'caption': 'a butterfly', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.20947265625, 'caption': 'a butterfly', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2342529296875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2342529296875, 'caption': 'person', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.230224609375, 'caption': "a woman's head in the picture", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.230224609375, 'caption': "a woman's head in the picture", 'crop_save_path': None}
+Image: data/sa_229597.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2457275390625, 'caption': 'the people are standing on the hill', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2457275390625, 'caption': 'the people are standing on the hill', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2498779296875, 'caption': 'a cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2498779296875, 'caption': 'a cloud in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2626953125, 'caption': 'The sunset is a beautiful sight to see.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2626953125, 'caption': 'The sunset is a beautiful sight to see.', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.269287109375, 'caption': 'The sunset is a beautiful sight to see', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.269287109375, 'caption': 'The sunset is a beautiful sight to see', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21435546875, 'caption': 'a cityscape with a square frame in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21435546875, 'caption': 'a cityscape with a square frame in the picture', 'crop_save_path': None}
+Image: data/sa_229744.jpg
+Mask: 1
+Final Result: {'clip_score': 0.27783203125, 'caption': 'the image shows a man standing in front of a curtain in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27783203125, 'caption': 'the image shows a man standing in front of a curtain in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1693115234375, 'caption': 'the image shows a map of the united states in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1693115234375, 'caption': 'the image shows a map of the united states in the picture.', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.311279296875, 'caption': 'a saxophone player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.311279296875, 'caption': 'a saxophone player', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.184814453125, 'caption': 'the man is holding a book', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.184814453125, 'caption': 'the man is holding a book', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.1754150390625, 'caption': 'a chair in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1754150390625, 'caption': 'a chair in the picture', 'crop_save_path': None}
+Image: data/sa_229796.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2509765625, 'caption': 'a man playing a guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2509765625, 'caption': 'a man playing a guitar', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1884765625, 'caption': 'the car is in the foreground', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1884765625, 'caption': 'the car is in the foreground', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.258544921875, 'caption': 'a man playing a guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.258544921875, 'caption': 'a man playing a guitar', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2548828125, 'caption': 'a black triangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2548828125, 'caption': 'a black triangle', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.279541015625, 'caption': 'a man playing an acoustic guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.279541015625, 'caption': 'a man playing an acoustic guitar', 'crop_save_path': None}
+Image: data/sa_229935.jpg
+Mask: 1
+Final Result: {'clip_score': 0.228271484375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.228271484375, 'caption': '', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1845703125, 'caption': 'the map of chile is a map of the country of chile', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1845703125, 'caption': 'the map of chile is a map of the country of chile', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.303955078125, 'caption': 'a woman in a yellow dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.303955078125, 'caption': 'a woman in a yellow dress', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2279052734375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2279052734375, 'caption': '', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.283935546875, 'caption': 'the legs of a woman in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.283935546875, 'caption': 'the legs of a woman in the picture', 'crop_save_path': None}
+Image: data/sa_229981.jpg
+Mask: 1
+Final Result: {'clip_score': 0.3095703125, 'caption': 'the image shows a man sitting on a chair in a dark room with a band playing on stage', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.3095703125, 'caption': 'the image shows a man sitting on a chair in a dark room with a band playing on stage', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.169921875, 'caption': 'the image shows a man standing in front of a building in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.169921875, 'caption': 'the image shows a man standing in front of a building in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.1685791015625, 'caption': 'the image shows a man standing in front of a building in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1685791015625, 'caption': 'the image shows a man standing in front of a building in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.18994140625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.18994140625, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.1710205078125, 'caption': 'a person in a black and white image', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1710205078125, 'caption': 'a person in a black and white image', 'crop_save_path': None}
+Image: data/sa_230034.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2076416015625, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2076416015625, 'caption': '', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2900390625, 'caption': 'a person on stage', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2900390625, 'caption': 'a person on stage', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2108154296875, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2108154296875, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2310791015625, 'caption': 'a telephone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2310791015625, 'caption': 'a telephone', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.23291015625, 'caption': 'a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23291015625, 'caption': 'a microphone', 'crop_save_path': None}
+Image: data/sa_230154.jpg
+Mask: 1
+Final Result: {'clip_score': 0.24072265625, 'caption': 'the statue is a statue of person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.24072265625, 'caption': 'the statue is a statue of person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.31103515625, 'caption': 'the statue is of a man holding a cross', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.31103515625, 'caption': 'the statue is of a man holding a cross', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.26416015625, 'caption': 'a statue of liberty', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26416015625, 'caption': 'a statue of liberty', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.290771484375, 'caption': 'a statue of saint simeon', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.290771484375, 'caption': 'a statue of saint simeon', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.267578125, 'caption': 'statue of liberty', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.267578125, 'caption': 'statue of liberty', 'crop_save_path': None}
+Image: data/sa_230403.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.248291015625, 'caption': "a woman's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.248291015625, 'caption': "a woman's face", 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2080078125, 'caption': 'a girl', 'crop_save_path': None}
+Image: data/sa_230412.jpg
+Mask: 1
+Final Result: {'clip_score': 0.23193359375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23193359375, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.20703125, 'caption': 'a leaf in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.20703125, 'caption': 'a leaf in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.20947265625, 'caption': 'a mirror', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.20947265625, 'caption': 'a mirror', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.245849609375, 'caption': 'a scarf', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.245849609375, 'caption': 'a scarf', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2108154296875, 'caption': 'a long, black, wooden stick', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2108154296875, 'caption': 'a long, black, wooden stick', 'crop_save_path': None}
+Image: data/sa_230518.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2125244140625, 'caption': 'a) a) b) c) d)', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2125244140625, 'caption': 'a) a) b) c) d)', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.216552734375, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.216552734375, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2440185546875, 'caption': 'the man is looking at the camera', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2440185546875, 'caption': 'the man is looking at the camera', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2412109375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2412109375, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2257080078125, 'caption': 'a scarf', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2257080078125, 'caption': 'a scarf', 'crop_save_path': None}
+Image: data/sa_230772.jpg
+Mask: 1
+Final Result: {'clip_score': 0.1021728515625, 'caption': 'a woman in a white dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1021728515625, 'caption': 'a woman in a white dress', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.258056640625, 'caption': 'The image shows the front of a black and white bicycle in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.258056640625, 'caption': 'The image shows the front of a black and white bicycle in the picture.', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.198486328125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.198486328125, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.0872802734375, 'caption': 'a woman in a white dress with a white hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.0872802734375, 'caption': 'a woman in a white dress with a white hat', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.26123046875, 'caption': 'the image shows a white wall with a light beige paint color in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26123046875, 'caption': 'the image shows a white wall with a light beige paint color in the picture.', 'crop_save_path': None}
+Image: data/sa_230921.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2396240234375, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2396240234375, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2325439453125, 'caption': 'the image shows a woman in a white dress in the picture.', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.208984375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.208984375, 'caption': '', 'crop_save_path': None}
+Image: data/sa_231218.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2353515625, 'caption': 'the hat is blue', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2353515625, 'caption': 'the hat is blue', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2447509765625, 'caption': 'the pillow is blue and white', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2447509765625, 'caption': 'the pillow is blue and white', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.257568359375, 'caption': 'the hand is holding a blue glove', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.257568359375, 'caption': 'the hand is holding a blue glove', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.212890625, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.212890625, 'caption': '', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.1998291015625, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1998291015625, 'caption': '', 'crop_save_path': None}
+Image: data/sa_231464.jpg
+Mask: 1
+Final Result: {'clip_score': 0.33447265625, 'caption': 'the image shows the rear view mirror of a car in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.33447265625, 'caption': 'the image shows the rear view mirror of a car in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2509765625, 'caption': 'A traffic sign', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2509765625, 'caption': 'A traffic sign', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2451171875, 'caption': 'the bridge is in the background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2451171875, 'caption': 'the bridge is in the background', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.251220703125, 'caption': 'A traffic sign', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.251220703125, 'caption': 'A traffic sign', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.259033203125, 'caption': 'the black motorcycle helmet in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.259033203125, 'caption': 'the black motorcycle helmet in the picture', 'crop_save_path': None}
+Image: data/sa_231544.jpg
+Mask: 1
+Final Result: {'clip_score': 0.22900390625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22900390625, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.310791015625, 'caption': 'a man drinking a drink in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.310791015625, 'caption': 'a man drinking a drink in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.31396484375, 'caption': 'a man drinking a glass of milk', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.31396484375, 'caption': 'a man drinking a glass of milk', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.1890869140625, 'caption': 'a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1890869140625, 'caption': 'a rectangle', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21240234375, 'caption': 'a man with a beard', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21240234375, 'caption': 'a man with a beard', 'crop_save_path': None}
+Image: data/sa_231649.jpg
+Mask: 1
+Final Result: {'clip_score': 0.255615234375, 'caption': 'the image shows the front bumper of a car in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.255615234375, 'caption': 'the image shows the front bumper of a car in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2076416015625, 'caption': 'a white bag with a black and white pattern', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2076416015625, 'caption': 'a white bag with a black and white pattern', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.1883544921875, 'caption': 'the man is wearing a white shirt and a black hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1883544921875, 'caption': 'the man is wearing a white shirt and a black hat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2998046875, 'caption': 'a man wearing a white shirt and a tie in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2998046875, 'caption': 'a man wearing a white shirt and a tie in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2099609375, 'caption': 'the person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2099609375, 'caption': 'the person', 'crop_save_path': None}
+Image: data/sa_231958.jpg
+Mask: 1
+Final Result: {'clip_score': 0.244384765625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.244384765625, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.306396484375, 'caption': 'the pagoda is a building that is used for religious ceremonies', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.306396484375, 'caption': 'the pagoda is a building that is used for religious ceremonies', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2164306640625, 'caption': 'a man on a motorcycle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2164306640625, 'caption': 'a man on a motorcycle', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2412109375, 'caption': 'a temple', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2412109375, 'caption': 'a temple', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2025146484375, 'caption': 'the image shows a map of new york city in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2025146484375, 'caption': 'the image shows a map of new york city in the picture', 'crop_save_path': None}
+Image: data/sa_232129.jpg
+Mask: 1
+Final Result: {'clip_score': 0.333251953125, 'caption': 'a black bow tie is a type of bow tie that is made of a black fabric', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.333251953125, 'caption': 'a black bow tie is a type of bow tie that is made of a black fabric', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.265380859375, 'caption': 'jimmy kimmel', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.265380859375, 'caption': 'jimmy kimmel', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.23974609375, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23974609375, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.265380859375, 'caption': 'jimmy kimmel', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.265380859375, 'caption': 'jimmy kimmel', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2413330078125, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2413330078125, 'caption': '', 'crop_save_path': None}
+Image: data/sa_232140.jpg
+Mask: 1
+Final Result: {'clip_score': 0.281005859375, 'caption': 'a man riding a horse', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.281005859375, 'caption': 'a man riding a horse', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2437744140625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2437744140625, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2474365234375, 'caption': 'a man on a mountain top', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2474365234375, 'caption': 'a man on a mountain top', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2208251953125, 'caption': 'a man with a gun in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2208251953125, 'caption': 'a man with a gun in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.28076171875, 'caption': 'a man riding a horse', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28076171875, 'caption': 'a man riding a horse', 'crop_save_path': None}
+Image: data/sa_232344.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2479248046875, 'caption': 'a black square', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2479248046875, 'caption': 'a black square', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2237548828125, 'caption': 'a woman in a white dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2237548828125, 'caption': 'a woman in a white dress', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.28369140625, 'caption': 'the black pair of shorts is a pair of shorts', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28369140625, 'caption': 'the black pair of shorts is a pair of shorts', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.26220703125, 'caption': 'a pair of black leggings', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26220703125, 'caption': 'a pair of black leggings', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.25341796875, 'caption': 'a glass blowing torch', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25341796875, 'caption': 'a glass blowing torch', 'crop_save_path': None}
+Image: data/sa_232365.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2340087890625, 'caption': 'the boy is holding a book', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2340087890625, 'caption': 'the boy is holding a book', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.182861328125, 'caption': 'a map of australia', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.182861328125, 'caption': 'a map of australia', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2109375, 'caption': 'a man with a beard', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2109375, 'caption': 'a man with a beard', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.227783203125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.227783203125, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.224365234375, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.224365234375, 'caption': 'person', 'crop_save_path': None}
+Image: data/sa_232555.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2176513671875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2176513671875, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.219970703125, 'caption': 'a person in a pool', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.219970703125, 'caption': 'a person in a pool', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2371826171875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2371826171875, 'caption': 'person', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2060546875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2060546875, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2308349609375, 'caption': 'the shape of the country of alaska in the picture is a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2308349609375, 'caption': 'the shape of the country of alaska in the picture is a rectangle', 'crop_save_path': None}
+Image: data/sa_232658.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2354736328125, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2354736328125, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.27197265625, 'caption': 'the man is holding a microphone', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.27197265625, 'caption': 'the man is holding a microphone', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.23046875, 'caption': 'the image shows a shirt with a hole in it in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23046875, 'caption': 'the image shows a shirt with a hole in it in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.224609375, 'caption': 'the shape of a black woman', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.224609375, 'caption': 'the shape of a black woman', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.248046875, 'caption': 'a pair of pants', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.248046875, 'caption': 'a pair of pants', 'crop_save_path': None}
+Image: data/sa_232824.jpg
+Mask: 1
+Final Result: {'clip_score': 0.1845703125, 'caption': 'the image shows a man in a white shirt and a black hat in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1845703125, 'caption': 'the image shows a man in a white shirt and a black hat in the picture.', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2420654296875, 'caption': 'the flag of the united states of america is a blue field with white stars and stripes', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2420654296875, 'caption': 'the flag of the united states of america is a blue field with white stars and stripes', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2469482421875, 'caption': 'the image shows a decorative metal sculpture in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2469482421875, 'caption': 'the image shows a decorative metal sculpture in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.279541015625, 'caption': 'malaysia', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.279541015625, 'caption': 'malaysia', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.228515625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.228515625, 'caption': 'person', 'crop_save_path': None}
+Image: data/sa_232927.jpg
+Mask: 1
+Final Result: {'clip_score': 0.1800537109375, 'caption': 'a blue sky with a white cloud', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1800537109375, 'caption': 'a blue sky with a white cloud', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2486572265625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2486572265625, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.22216796875, 'caption': 'a chocolate', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.22216796875, 'caption': 'a chocolate', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2099609375, 'caption': "the baby's head is in the picture", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2099609375, 'caption': "the baby's head is in the picture", 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.243408203125, 'caption': 'a blue and white striped tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.243408203125, 'caption': 'a blue and white striped tie', 'crop_save_path': None}
+Image: data/sa_232990.jpg
+Mask: 1
+Final Result: {'clip_score': 0.232421875, 'caption': 'the black helmet is the person in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.232421875, 'caption': 'the black helmet is the person in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2479248046875, 'caption': 'the image shows a piece of paper with a few lines on it in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2479248046875, 'caption': 'the image shows a piece of paper with a few lines on it in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.26025390625, 'caption': 'a computer monitor', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26025390625, 'caption': 'a computer monitor', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2486572265625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2486572265625, 'caption': 'person', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.230224609375, 'caption': 'the shape of the country of russia in the picture is a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.230224609375, 'caption': 'the shape of the country of russia in the picture is a rectangle', 'crop_save_path': None}
+Image: data/sa_233018.jpg
+Mask: 1
+Final Result: {'clip_score': 0.29833984375, 'caption': 'the statue of liberty', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29833984375, 'caption': 'the statue of liberty', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.301025390625, 'caption': 'The statue of liberty is a statue of liberty', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.301025390625, 'caption': 'The statue of liberty is a statue of liberty', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2244873046875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2244873046875, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2421875, 'caption': 'A cloud', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2421875, 'caption': 'A cloud', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.298828125, 'caption': 'The statue of liberty is a statue of liberty', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.298828125, 'caption': 'The statue of liberty is a statue of liberty', 'crop_save_path': None}
+Image: data/sa_233023.jpg
+Mask: 1
+Final Result: {'clip_score': 0.26416015625, 'caption': 'a blue hat in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.26416015625, 'caption': 'a blue hat in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2802734375, 'caption': 'he is playing a guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2802734375, 'caption': 'he is playing a guitar', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.257568359375, 'caption': 'a blue stick in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.257568359375, 'caption': 'a blue stick in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.272216796875, 'caption': 'a man with a guitar', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.272216796875, 'caption': 'a man with a guitar', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.284912109375, 'caption': 'a blue circle with a white background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.284912109375, 'caption': 'a blue circle with a white background', 'crop_save_path': None}
+Image: data/sa_233164.jpg
+Mask: 1
+Final Result: {'clip_score': 0.28369140625, 'caption': 'the washington monument is a monument in washington, dc, united states of america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28369140625, 'caption': 'the washington monument is a monument in washington, dc, united states of america', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.289306640625, 'caption': 'the washington monument is a monument to the first president of the united states, joseph washington', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.289306640625, 'caption': 'the washington monument is a monument to the first president of the united states, joseph washington', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.289306640625, 'caption': 'the washington monument is a monument to the first president of the united states, joseph washington', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.289306640625, 'caption': 'the washington monument is a monument to the first president of the united states, joseph washington', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.29248046875, 'caption': 'a monument to the first president of the united states', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29248046875, 'caption': 'a monument to the first president of the united states', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.281982421875, 'caption': 'the washington monument is a monument in washington dc, united states of america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.281982421875, 'caption': 'the washington monument is a monument in washington dc, united states of america', 'crop_save_path': None}
+Image: data/sa_233177.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2509765625, 'caption': 'the man is driving the car', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2509765625, 'caption': 'the man is driving the car', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2325439453125, 'caption': 'a person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2325439453125, 'caption': 'a person', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2156982421875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2156982421875, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2393798828125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2393798828125, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.280029296875, 'caption': 'the side mirror of a truck is a mirror that is used to see the side of the truck', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.280029296875, 'caption': 'the side mirror of a truck is a mirror that is used to see the side of the truck', 'crop_save_path': None}
+Image: data/sa_233224.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2117919921875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2117919921875, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1995849609375, 'caption': 'a piece of wood with a hole in it', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1995849609375, 'caption': 'a piece of wood with a hole in it', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.1739501953125, 'caption': 'the image shows a map of the state of florida in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1739501953125, 'caption': 'the image shows a map of the state of florida in the picture', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2322998046875, 'caption': 'a red square', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2322998046875, 'caption': 'a red square', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2269287109375, 'caption': 'a red square', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2269287109375, 'caption': 'a red square', 'crop_save_path': None}
+Image: data/sa_233248.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2286376953125, 'caption': "a man's head", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2286376953125, 'caption': "a man's head", 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.296875, 'caption': 'a blue rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.296875, 'caption': 'a blue rectangle', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.25439453125, 'caption': "a man's face", 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25439453125, 'caption': "a man's face", 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.16455078125, 'caption': 'a foam pad', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.16455078125, 'caption': 'a foam pad', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2607421875, 'caption': 'a shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2607421875, 'caption': 'a shirt', 'crop_save_path': None}
+Image: data/sa_233276.jpg
+Mask: 1
+Final Result: {'clip_score': 0.241455078125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.241455078125, 'caption': 'a', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.19384765625, 'caption': 'the image shows a map of the state of oklahoma in the picture.', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.19384765625, 'caption': 'the image shows a map of the state of oklahoma in the picture.', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.354248046875, 'caption': 'the adidas shirt with a black and pink paint splatter', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.354248046875, 'caption': 'the adidas shirt with a black and pink paint splatter', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.23388671875, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23388671875, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.354248046875, 'caption': 'the adidas shirt with a black and pink paint splatter', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.354248046875, 'caption': 'the adidas shirt with a black and pink paint splatter', 'crop_save_path': None}
+Image: data/sa_233454.jpg
+Mask: 1
+Final Result: {'clip_score': 0.30908203125, 'caption': 'a white head with a black outline', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.30908203125, 'caption': 'a white head with a black outline', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2369384765625, 'caption': 'a small piece of cloth', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2369384765625, 'caption': 'a small piece of cloth', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.247802734375, 'caption': 'a statue of a man', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.247802734375, 'caption': 'a statue of a man', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2247314453125, 'caption': 'a heart shape', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2247314453125, 'caption': 'a heart shape', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2364501953125, 'caption': 'a brown paper bag', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2364501953125, 'caption': 'a brown paper bag', 'crop_save_path': None}
+Image: data/sa_233676.jpg
+Mask: 1
+Final Result: {'clip_score': 0.251220703125, 'caption': 'a group of people', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.251220703125, 'caption': 'a group of people', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.25732421875, 'caption': 'a blue and white striped dress', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.25732421875, 'caption': 'a blue and white striped dress', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.268798828125, 'caption': 'a grey ball', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.268798828125, 'caption': 'a grey ball', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.291748046875, 'caption': 'a pink tie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.291748046875, 'caption': 'a pink tie', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.20654296875, 'caption': 'a white wall with a blue line', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.20654296875, 'caption': 'a white wall with a blue line', 'crop_save_path': None}
+Image: data/sa_233729.jpg
+Mask: 1
+Final Result: {'clip_score': 0.201171875, 'caption': 'the reflection of the sun on the surface of the water', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.201171875, 'caption': 'the reflection of the sun on the surface of the water', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2208251953125, 'caption': 'the curved glass window in the picture is a curved glass window in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2208251953125, 'caption': 'the curved glass window in the picture is a curved glass window in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.238037109375, 'caption': 'a black hole', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.238037109375, 'caption': 'a black hole', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2220458984375, 'caption': 'a black and white image', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2220458984375, 'caption': 'a black and white image', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2181396484375, 'caption': 'a water dispenser', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2181396484375, 'caption': 'a water dispenser', 'crop_save_path': None}
+Image: data/sa_233811.jpg
+Mask: 1
+Final Result: {'clip_score': 0.34033203125, 'caption': 'the statue of mary on the top of the church', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.34033203125, 'caption': 'the statue of mary on the top of the church', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.296142578125, 'caption': 'a black balloon with a white background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.296142578125, 'caption': 'a black balloon with a white background', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.34033203125, 'caption': 'the statue of mary on the top of the church', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.34033203125, 'caption': 'the statue of mary on the top of the church', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.334716796875, 'caption': 'the statue of the virgin mary on the top of the church', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.334716796875, 'caption': 'the statue of the virgin mary on the top of the church', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.334716796875, 'caption': 'the statue of the virgin mary on the top of the church', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.334716796875, 'caption': 'the statue of the virgin mary on the top of the church', 'crop_save_path': None}
+Image: data/sa_233869.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2391357421875, 'caption': 'a pink square', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2391357421875, 'caption': 'a pink square', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.230224609375, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.230224609375, 'caption': 'person', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.223388671875, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.223388671875, 'caption': 'person', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2998046875, 'caption': 'the image shows a red and black camo patterned necktie in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2998046875, 'caption': 'the image shows a red and black camo patterned necktie in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.2027587890625, 'caption': 'the flag is a symbol of the united states of america', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2027587890625, 'caption': 'the flag is a symbol of the united states of america', 'crop_save_path': None}
+Image: data/sa_234072.jpg
+Mask: 1
+Final Result: {'clip_score': 0.19921875, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.19921875, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.1822509765625, 'caption': 'the city skyline in the picture is the city skyline in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1822509765625, 'caption': 'the city skyline in the picture is the city skyline in the picture', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.23095703125, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23095703125, 'caption': 'a', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2265625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2265625, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.21923828125, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.21923828125, 'caption': 'a blue sky with a white cloud in the picture', 'crop_save_path': None}
+Image: data/sa_234094.jpg
+Mask: 1
+Final Result: {'clip_score': 0.30322265625, 'caption': 'a woman in a blue sky', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.30322265625, 'caption': 'a woman in a blue sky', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.275146484375, 'caption': 'a woman in a pink top', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.275146484375, 'caption': 'a woman in a pink top', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2491455078125, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2491455078125, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.304443359375, 'caption': 'a girl in a blue sky', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.304443359375, 'caption': 'a girl in a blue sky', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.326416015625, 'caption': 'a woman in a pink top', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.326416015625, 'caption': 'a woman in a pink top', 'crop_save_path': None}
+Image: data/sa_234130.jpg
+Mask: 1
+Final Result: {'clip_score': 0.1976318359375, 'caption': 'the woman is wearing a black dress and a black hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1976318359375, 'caption': 'the woman is wearing a black dress and a black hat', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2486572265625, 'caption': 'a black beanie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2486572265625, 'caption': 'a black beanie', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2093505859375, 'caption': 'a black and blue horse', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2093505859375, 'caption': 'a black and blue horse', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.253662109375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.253662109375, 'caption': 'a', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.221923828125, 'caption': 'submarine', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.221923828125, 'caption': 'submarine', 'crop_save_path': None}
+Image: data/sa_234375.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2283935546875, 'caption': 'the pope', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2283935546875, 'caption': 'the pope', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.29296875, 'caption': 'a cross on a gold background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29296875, 'caption': 'a cross on a gold background', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.32177734375, 'caption': 'the patch is a patch of green and gold embroidery', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.32177734375, 'caption': 'the patch is a patch of green and gold embroidery', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2366943359375, 'caption': 'a beige towel', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2366943359375, 'caption': 'a beige towel', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.257568359375, 'caption': 'a pillowcase', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.257568359375, 'caption': 'a pillowcase', 'crop_save_path': None}
+Image: data/sa_234499.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2232666015625, 'caption': 'black', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2232666015625, 'caption': 'black', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2337646484375, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2337646484375, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.2227783203125, 'caption': '', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2227783203125, 'caption': '', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.2015380859375, 'caption': 'a purple stain on a white background', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2015380859375, 'caption': 'a purple stain on a white background', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.241943359375, 'caption': 'a black circle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.241943359375, 'caption': 'a black circle', 'crop_save_path': None}
+Image: data/sa_234599.jpg
+Mask: 1
+Final Result: {'clip_score': 0.252685546875, 'caption': 'a cloud in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.252685546875, 'caption': 'a cloud in the picture', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2197265625, 'caption': 'a', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2197265625, 'caption': 'a', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.285400390625, 'caption': 'the legs of a man in the picture are in the mud', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.285400390625, 'caption': 'the legs of a man in the picture are in the mud', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.28564453125, 'caption': 'a person standing on a beach', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.28564453125, 'caption': 'a person standing on a beach', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.23095703125, 'caption': 'a person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.23095703125, 'caption': 'a person', 'crop_save_path': None}
+Image: data/sa_234813.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2049560546875, 'caption': 'a man in a white shirt and black pants', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2049560546875, 'caption': 'a man in a white shirt and black pants', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.2685546875, 'caption': 'a woman holding a cigarette', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2685546875, 'caption': 'a woman holding a cigarette', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.226806640625, 'caption': 'a red hat', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.226806640625, 'caption': 'a red hat', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.235107421875, 'caption': 'a black beanie', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.235107421875, 'caption': 'a black beanie', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.284423828125, 'caption': 'a scarf with a blue, yellow, and purple design', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.284423828125, 'caption': 'a scarf with a blue, yellow, and purple design', 'crop_save_path': None}
+Image: data/sa_234836.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2430419921875, 'caption': 'a rectangle', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2430419921875, 'caption': 'a rectangle', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.254150390625, 'caption': 'a black beanie is a hat that is made of a material that is black in color', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.254150390625, 'caption': 'a black beanie is a hat that is made of a material that is black in color', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.222412109375, 'caption': 'a hat with a red brim', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.222412109375, 'caption': 'a hat with a red brim', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.244140625, 'caption': 'the image shows a red brick wall in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.244140625, 'caption': 'the image shows a red brick wall in the picture', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.209228515625, 'caption': 'the image shows the shape of the country of algeria in the picture', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.209228515625, 'caption': 'the image shows the shape of the country of algeria in the picture', 'crop_save_path': None}
+Image: data/sa_234869.jpg
+Mask: 1
+Final Result: {'clip_score': 0.2359619140625, 'caption': 'person', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.2359619140625, 'caption': 'person', 'crop_save_path': None}
+Mask: 2
+Final Result: {'clip_score': 0.264404296875, 'caption': 'a man in a black and yellow shirt', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.264404296875, 'caption': 'a man in a black and yellow shirt', 'crop_save_path': None}
+Mask: 3
+Final Result: {'clip_score': 0.29150390625, 'caption': 'a rugby player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.29150390625, 'caption': 'a rugby player', 'crop_save_path': None}
+Mask: 4
+Final Result: {'clip_score': 0.1939697265625, 'caption': 'a man and a woman walking in the woods', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.1939697265625, 'caption': 'a man and a woman walking in the woods', 'crop_save_path': None}
+Mask: 5
+Final Result: {'clip_score': 0.292236328125, 'caption': 'a rugby player', 'crop_save_path': None}
+Intermediate Result: {'clip_score': 0.292236328125, 'caption': 'a rugby player', 'crop_save_path': None}
+Max Clip score was 0.354248046875 for data/sa_233276.jpg
+Average clip score: 0.246506591796875

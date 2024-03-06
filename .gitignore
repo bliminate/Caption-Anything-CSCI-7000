@@ -3,6 +3,8 @@ model_cache/
 *.pth
 teng_grad_start.sh
 chat_image/
+Caption-Anything-CSCI-7000.code-workspace
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
